@@ -1,0 +1,3005 @@
+monkey:
+materials and tools,abbrevations,body,head,arms (make two),legs (make two),face,muzzle,ears (make two),tail,assembling
+dauc:
+materials and tools,abbrevations,body,head,arms (make two),legs (make two),face,muzzle,ears (make two),tail,assembling
+langur:
+materials and tools,abbrevations,body,head,arms (make two),legs (make two),face,muzzle,ears (make two),tail,assembling
+doll:
+abbreviations,materials,legs (with skin color yarn),body,head (with skin color yarn),arm (with skin color yarn) make 8,petticoat (with purple color yarn),skirt (with green color yarn),collar (with cream color yarn),skirt flowers (with pink color yarn) make 8,hair (with black color yarn),flowers (with red color yarn) make 6,cape edge (with blue color yarn),shoes (with blue color yarn),download pdf file
+frida:
+abbreviations,materials,legs (with skin color yarn),body,head (with skin color yarn),arm (with skin color yarn) make 8,petticoat (with purple color yarn),skirt (with green color yarn),collar (with cream color yarn),skirt flowers (with pink color yarn) make 8,hair (with black color yarn),flowers (with red color yarn) make 6,cape edge (with blue color yarn),shoes (with blue color yarn),download pdf file
+kahlo:
+abbreviations,materials,legs (with skin color yarn),body,head (with skin color yarn),arm (with skin color yarn) make 8,petticoat (with purple color yarn),skirt (with green color yarn),collar (with cream color yarn),skirt flowers (with pink color yarn) make 8,hair (with black color yarn),flowers (with red color yarn) make 6,cape edge (with blue color yarn),shoes (with blue color yarn),download pdf file
+bunny:
+abbreviations,materials,legs,arms,body,head,ears,flower,flowers,carrot,download pdf file
+moo:
+abbreviations,materials,legs,arms,body,head,ears,flower,flowers,carrot,download pdf file
+little:
+abbreviations,body and head,hair,hat,broom
+witch:
+abbreviations,body and head,hair,hat,broom
+halloween:
+abbreviations,body and head,hair,hat,broom
+one:
+abbreviations,materials and tips,legs (make 2),join of the legs,trouser,head,arms (make 2),ears (make 2),vest,hair,hat,assembling
+piece:
+abbreviations,materials and tips,legs (make 2),join of the legs,trouser,head,arms (make 2),ears (make 2),vest,hair,hat,assembling
+character:
+abbreviations,materials and tips,legs (make 2),join of the legs,trouser,head,arms (make 2),ears (make 2),vest,hair,hat,assembling
+luffy:
+abbreviations,materials and tips,legs (make 2),join of the legs,trouser,head,arms (make 2),ears (make 2),vest,hair,hat,assembling
+easy:
+materials:,abbreviations,body:,head:,arms:,legs:,ears:,tail:,tightening face:,collar:
+cute:
+materials:,abbreviations,body:,head:,arms:,legs:,ears:,tail:,tightening face:,collar:
+bunny:
+materials:,abbreviations,body:,head:,arms:,legs:,ears:,tail:,tightening face:,collar:
+nezuko:
+abbreviations,materials and tips,legs x2,body,head,arms x2,clothes,obi,leggings x2,mouth cover,hair,coat,assembling the amigurumi
+doll:
+abbreviations,materials and tips,legs x2,body,head,arms x2,clothes,obi,leggings x2,mouth cover,hair,coat,assembling the amigurumi
+tiger:
+materials:,abbreviations,head.,muzzle (white yarn).,nose (black yarn).,ears (x2),body,upper paws (2 pcs),lower paws (2 pcs),tail,snood
+with:
+materials:,abbreviations,head.,muzzle (white yarn).,nose (black yarn).,ears (x2),body,upper paws (2 pcs),lower paws (2 pcs),tail,snood
+snood:
+materials:,abbreviations,head.,muzzle (white yarn).,nose (black yarn).,ears (x2),body,upper paws (2 pcs),lower paws (2 pcs),tail,snood
+bunny:
+abbreviations,material,legs and body,overalls,arms (x2),head,ears (x2),shoes (x2),shoulder bag,carrots,watering can,neck of the watering can,descargar patron pdf
+doll:
+abbreviations,material,legs and body,overalls,arms (x2),head,ears (x2),shoes (x2),shoulder bag,carrots,watering can,neck of the watering can,descargar patron pdf
+millio:
+abbreviations,material,legs and body,overalls,arms (x2),head,ears (x2),shoes (x2),shoulder bag,carrots,watering can,neck of the watering can,descargar patron pdf
+mini:
+materials and tools,abbreviations,arms (2 parts),legs (2 parts):,tail:,body:,ears (2 parts):,head:
+dog:
+materials and tools,abbreviations,arms (2 parts),legs (2 parts):,tail:,body:,ears (2 parts):,head:
+tally:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,ears (make 2),horns (make 2),tail,spot,scarf
+the:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,ears (make 2),horns (make 2),tail,spot,scarf
+giraffe:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,ears (make 2),horns (make 2),tail,spot,scarf
+ben:
+materials,abbreviations:,ears x2,arms x2,legs x2,tail,body,head
+the:
+materials,abbreviations:,ears x2,arms x2,legs x2,tail,body,head
+bunny:
+materials,abbreviations:,ears x2,arms x2,legs x2,tail,body,head
+pipi:
+abbreviations,head,legs & body,arms,ears,dress
+teddy:
+abbreviations,head,legs & body,arms,ears,dress
+bear:
+abbreviations,head,legs & body,arms,ears,dress
+yellow:
+materials,abbrevations,head,arm * 2,leg * 2,body,ear * 2,hair,boots,dress,skirt (under dress),hat
+duck:
+materials,abbrevations,head,arm * 2,leg * 2,body,ear * 2,hair,boots,dress,skirt (under dress),hat
+girl:
+materials,abbrevations,head,arm * 2,leg * 2,body,ear * 2,hair,boots,dress,skirt (under dress),hat
+bunny:
+abbreviations,materials,legs and body,arms (make 2),head,ears (make 2),blush,shoes (make 2),apron,pocket,straps and belt,flowers pot,flowers,leaves (make 5)
+doll:
+abbreviations,materials,legs and body,arms (make 2),head,ears (make 2),blush,shoes (make 2),apron,pocket,straps and belt,flowers pot,flowers,leaves (make 5)
+millie:
+abbreviations,materials,legs and body,arms (make 2),head,ears (make 2),blush,shoes (make 2),apron,pocket,straps and belt,flowers pot,flowers,leaves (make 5)
+rose:
+materials,abbreviations,head and body,ears (x2),arms (x2),tail,carrot
+the:
+materials,abbreviations,head and body,ears (x2),arms (x2),tail,carrot
+bunny:
+materials,abbreviations,head and body,ears (x2),arms (x2),tail,carrot
+leo:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,ears (make 2),tail,lion's mane
+the:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,ears (make 2),tail,lion's mane
+lion:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,ears (make 2),tail,lion's mane
+ambroise:
+materials,abbreviations,head and body,sheep's wool,ears (x2),arms
+sheep:
+materials,abbreviations,head and body,sheep's wool,ears (x2),arms
+penny:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,hat,tail,ears (make 2),scarf
+the:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,hat,tail,ears (make 2),scarf
+fox:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,hat,tail,ears (make 2),scarf
+bunny:
+materials,abbrevations,body,head,ears (x2),arms and legs (x4),tail,carrot
+henri:
+materials,abbrevations,body,head,ears (x2),arms and legs (x4),tail,carrot
+with:
+materials,abbrevations,body,head,ears (x2),arms and legs (x4),tail,carrot
+carrot:
+materials,abbrevations,body,head,ears (x2),arms and legs (x4),tail,carrot
+rooster:
+materials,abbreviations,head and body,beak,wattle,comb,tail feathers,descargar patron pdf
+ribbon:
+abbreviations,shoes and the legs (*2),body,head,arms (*2),dress,ribbon
+girl:
+abbreviations,shoes and the legs (*2),body,head,arms (*2),dress,ribbon
+doll:
+abbreviations,shoes and the legs (*2),body,head,arms (*2),dress,ribbon
+the:
+materials,abbreviations,legs (make 2),arms (make 2),head,horns (make 2),eye brim,eye,details,assembly
+mike:
+materials,abbreviations,legs (make 2),arms (make 2),head,horns (make 2),eye brim,eye,details,assembly
+goose:
+materials,abbrevations,head,beak,wings,legs
+easter:
+materials,abbreviations,head,body,ears (make2),arms (make2),tail,legs (make2),assembly,heart
+bunny:
+materials,abbreviations,head,body,ears (make2),arms (make2),tail,legs (make2),assembly,heart
+and:
+materials,abbreviations,head,body,ears (make2),arms (make2),tail,legs (make2),assembly,heart
+heart:
+materials,abbreviations,head,body,ears (make2),arms (make2),tail,legs (make2),assembly,heart
+easy:
+abbreviations,materials,head and body,shell,wings (x2),beak,head's feathers
+easter:
+abbreviations,materials,head and body,shell,wings (x2),beak,head's feathers
+chick:
+abbreviations,materials,head and body,shell,wings (x2),beak,head's feathers
+peacock:
+materials,abbreviations,head and body,beak,eye patches,head feathers,back feathers,tail,tail feathers (make 3)
+the:
+materials,abbreviations,head and body,beak,eye patches,head feathers,back feathers,tail,tail feathers (make 3)
+louis:
+materials,abbreviations,head and body,beak,eye patches,head feathers,back feathers,tail,tail feathers (make 3)
+gracie:
+materials,abbreviations,arms (make 2),tail,legs (make 2),body,head,muzzle,ears (make 2)
+the:
+materials,abbreviations,arms (make 2),tail,legs (make 2),body,head,muzzle,ears (make 2)
+kitty:
+materials,abbreviations,arms (make 2),tail,legs (make 2),body,head,muzzle,ears (make 2)
+chibi:
+materials,abbreviations,blue totoro's arms (make 2),blue totoro's ears (make 2),blue totoro's tail,blue totoro's body and head,white totoro's ears (make 2),white totoro's body,white totoro's tail,black soots,assembly
+totoro:
+materials,abbreviations,blue totoro's arms (make 2),blue totoro's ears (make 2),blue totoro's tail,blue totoro's body and head,white totoro's ears (make 2),white totoro's body,white totoro's tail,black soots,assembly
+j-hope:
+materials.,abbreviations:,arms x2,shoes and legs x2,body,head,ears x2,hair,short
+doll:
+materials.,abbreviations:,arms x2,shoes and legs x2,body,head,ears x2,hair,short
+espresso:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,hat,ears (make 2),descargar patron pdf
+the:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,hat,ears (make 2),descargar patron pdf
+sheep:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,hat,ears (make 2),descargar patron pdf
+little:
+materials,abbreviations,head:,ears (make 2),cover of ring:,bow tie:,checks (make 2 with pink yarn),materials and tools,body,hair:
+bunny:
+materials,abbreviations,head:,ears (make 2),cover of ring:,bow tie:,checks (make 2 with pink yarn),materials and tools,body,hair:
+rattle:
+materials,abbreviations,head:,ears (make 2),cover of ring:,bow tie:,checks (make 2 with pink yarn),materials and tools,body,hair:
+with:
+materials,abbreviations,head:,ears (make 2),cover of ring:,bow tie:,checks (make 2 with pink yarn),materials and tools,body,hair:
+carrot:
+materials,abbreviations,head:,ears (make 2),cover of ring:,bow tie:,checks (make 2 with pink yarn),materials and tools,body,hair:
+snow:
+materials,abbreviations,front leg (x2),back leg (x2),ears(x2),body,head,tail,assembly,needle sculpt,download pdf file
+white:
+materials,abbreviations,front leg (x2),back leg (x2),ears(x2),body,head,tail,assembly,needle sculpt,download pdf file
+cat:
+materials,abbreviations,front leg (x2),back leg (x2),ears(x2),body,head,tail,assembly,needle sculpt,download pdf file
+sailor:
+materials:,terms used:,notes:,body + head:,arm x2:,collar:,the bow:,bun caps x2:,hair:,leg x2:,skirt:,curls x2:,finishing:
+moon:
+materials:,terms used:,notes:,body + head:,arm x2:,collar:,the bow:,bun caps x2:,hair:,leg x2:,skirt:,curls x2:,finishing:
+doll:
+materials:,terms used:,notes:,body + head:,arm x2:,collar:,the bow:,bun caps x2:,hair:,leg x2:,skirt:,curls x2:,finishing:
+monkey:
+materials,abbreviations,legs (make 2),body,arms (make 2),head,hat,inner ears (make 2),outer ears (make 2),tail,scarf
+crazy:
+materials,abbreviations,legs (make 2),body,tail,arms (make 2),head,eyes (make 2),eyelids (make 2),nose,wing (make 2),thorn,scarf
+dragon:
+materials,abbreviations,legs (make 2),body,tail,arms (make 2),head,eyes (make 2),eyelids (make 2),nose,wing (make 2),thorn,scarf
+duck:
+materials,abbreviations,body,wings (make 2),cheeks (make 2),beak,legs (make 2),tail,bowtie,assembling
+easy:
+materials,abbreviations,ears:,muzzle:,head:,eyes,tummy:,arms:,legs:,body:
+teddy:
+materials,abbreviations,ears:,muzzle:,head:,eyes,tummy:,arms:,legs:,body:
+bear:
+materials,abbreviations,ears:,muzzle:,head:,eyes,tummy:,arms:,legs:,body:
+lion:
+materials,abbreviations,head,ears (make 2),arms without t-shirt (2 pcs),arms with t-shirt (2 pcs),legs (make 2),tail,body without t-shirt,body with t-shirt,assembling the head,assembling the body
+yuma:
+materials,abbreviations,head,ears (make 2),arms without t-shirt (2 pcs),arms with t-shirt (2 pcs),legs (make 2),tail,body without t-shirt,body with t-shirt,assembling the head,assembling the body
+easter:
+abbreviations,materials,head (2.5mm hook. cream yarn),ears (2.5mm hook. cream yarn),legs x 2 (2.5mm hook, cream yarn),body (2.5mm hook, cream yarn).,arms x 2 (2.5mm hook, cream yarn),assemble,dress,ruffles on sleeves.,petals (white thread)
+autumn:
+abbreviations,materials,head (2.5mm hook. cream yarn),ears (2.5mm hook. cream yarn),legs x 2 (2.5mm hook, cream yarn),body (2.5mm hook, cream yarn).,arms x 2 (2.5mm hook, cream yarn),assemble,dress,ruffles on sleeves.,petals (white thread)
+bunny:
+abbreviations,materials,head (2.5mm hook. cream yarn),ears (2.5mm hook. cream yarn),legs x 2 (2.5mm hook, cream yarn),body (2.5mm hook, cream yarn).,arms x 2 (2.5mm hook, cream yarn),assemble,dress,ruffles on sleeves.,petals (white thread)
+dinosaur:
+materials,abbreviations,head,muzzle,clamp for ring,tail,crests,assembly
+rattle:
+materials,abbreviations,head,muzzle,clamp for ring,tail,crests,assembly
+easy:
+materials,abbreviations,ears:,muzzle:,head:,arms:,legs:,body:,tail:
+tiger:
+materials,abbreviations,ears:,muzzle:,head:,arms:,legs:,body:,tail:
+lalafanfan:
+materials,abbreviations,head,arms (make 2),legs and body,cheeks,beak,hat,ears (make 2),the dress,bag
+duck:
+materials,abbreviations,head,arms (make 2),legs and body,cheeks,beak,hat,ears (make 2),the dress,bag
+easter:
+materials,abbreviations,egg,wings (2 parts),paws (2 parts),flowers (3pcs)
+baby:
+materials,abbreviations,egg,wings (2 parts),paws (2 parts),flowers (3pcs)
+bird:
+materials,abbreviations,egg,wings (2 parts),paws (2 parts),flowers (3pcs)
+lovely:
+materials,abbreviations,ears (make 2),arms (make 2),legs (make 2),body,head,dress,bow (make 2)
+bunny:
+materials,abbreviations,ears (make 2),arms (make 2),legs (make 2),body,head,dress,bow (make 2)
+molly:
+materials,abbreviations,ears (make 2),arms (make 2),legs (make 2),body,head,dress,bow (make 2)
+easy:
+necessary materials,abbreviations,legs,arms,body and head,ears,tail,tightening and muzzle design,spout embroidery
+plush:
+necessary materials,abbreviations,legs,arms,body and head,ears,tail,tightening and muzzle design,spout embroidery
+bunny:
+necessary materials,abbreviations,legs,arms,body and head,ears,tail,tightening and muzzle design,spout embroidery
+lelya:
+necessary materials,abbreviations,legs,arms,body and head,ears,tail,tightening and muzzle design,spout embroidery
+gudetama:
+abbreviations,materials,arms,egg shell
+easy:
+materials,abbreviations,head,ears (make 2),arms (make 2),legs (make 2),body,belly,tail,assembly,jacket,sleeves:,collar:
+peter:
+materials,abbreviations,head,ears (make 2),arms (make 2),legs (make 2),body,belly,tail,assembly,jacket,sleeves:,collar:
+rabbit:
+materials,abbreviations,head,ears (make 2),arms (make 2),legs (make 2),body,belly,tail,assembly,jacket,sleeves:,collar:
+easter:
+materials,abbreviations,body,head,top part (for eggs),cap,beak,wattle,tail,comb,assembling,eggs (small)
+chicken:
+materials,abbreviations,body,head,top part (for eggs),cap,beak,wattle,tail,comb,assembling,eggs (small)
+spring:
+abbreviations,legs.,body.,skirt.,collar,head,ears.,arms.,flowers.,leaves 4 pcs.,assembly.
+bunny:
+abbreviations,legs.,body.,skirt.,collar,head,ears.,arms.,flowers.,leaves 4 pcs.,assembly.
+in:
+abbreviations,legs.,body.,skirt.,collar,head,ears.,arms.,flowers.,leaves 4 pcs.,assembly.
+dress:
+abbreviations,legs.,body.,skirt.,collar,head,ears.,arms.,flowers.,leaves 4 pcs.,assembly.
+cute:
+materials,abbreviations,cheeks (2 pcs),beak,wings (2 pcs),legs 2 pcs,body,head,feathers on the head,tummy,ears (4 pcs),beanie,assembly
+duck:
+materials,abbreviations,cheeks (2 pcs),beak,wings (2 pcs),legs 2 pcs,body,head,feathers on the head,tummy,ears (4 pcs),beanie,assembly
+with:
+materials,abbreviations,cheeks (2 pcs),beak,wings (2 pcs),legs 2 pcs,body,head,feathers on the head,tummy,ears (4 pcs),beanie,assembly
+overalls:
+materials,abbreviations,cheeks (2 pcs),beak,wings (2 pcs),legs 2 pcs,body,head,feathers on the head,tummy,ears (4 pcs),beanie,assembly
+bear:
+materials,abbreviations,legs and body,arms (make 2),head,ears (make 2),muzzle,scarf,gloves (make 2),shoes (make 2),snowboard,tie shoes (make 2),blush
+nina:
+materials,abbreviations,legs and body,arms (make 2),head,ears (make 2),muzzle,scarf,gloves (make 2),shoes (make 2),snowboard,tie shoes (make 2),blush
+kitten:
+materials,abbreviations,body & head,legs,arms,ears,tail,heart
+chick:
+materials,abbreviations,body ( yellow ),wings ( yellow),eyes ( white),bunny ( white),head,ears x 2 ( white),arm ( white),download pdf file
+with:
+materials,abbreviations,body ( yellow ),wings ( yellow),eyes ( white),bunny ( white),head,ears x 2 ( white),arm ( white),download pdf file
+bunny:
+materials,abbreviations,body ( yellow ),wings ( yellow),eyes ( white),bunny ( white),head,ears x 2 ( white),arm ( white),download pdf file
+mouse:
+materials,abbreviations,left leg,right leg,body,head,arms,tail,ears,bowtie,straps
+princess:
+materials,abbreviations,hands: (2pcs),hair:,legs: (2pcs),body:,head:,making video
+jasmine:
+materials,abbreviations,hands: (2pcs),hair:,legs: (2pcs),body:,head:,making video
+doll:
+materials,abbreviations,hands: (2pcs),hair:,legs: (2pcs),body:,head:,making video
+the:
+materials,abbreviations,head,legs + body,arms (x2),tail
+cat:
+materials,abbreviations,head,legs + body,arms (x2),tail
+who:
+materials,abbreviations,head,legs + body,arms (x2),tail
+plush:
+materials,abbreviations,lower legs (2 pieces),upper legs (2 pieces),ears (2 pieces),tail,body,head,assembly and design,
+head decoration
+velvet:
+materials,abbreviations,lower legs (2 pieces),upper legs (2 pieces),ears (2 pieces),tail,body,head,assembly and design,
+head decoration
+bunny:
+materials,abbreviations,lower legs (2 pieces),upper legs (2 pieces),ears (2 pieces),tail,body,head,assembly and design,
+head decoration
+easy:
+materials:,abbreviations,head,ears (make 2),muzzle,upper paws,lower legs,body
+plush:
+materials:,abbreviations,head,ears (make 2),muzzle,upper paws,lower legs,body
+big:
+materials:,abbreviations,head,ears (make 2),muzzle,upper paws,lower legs,body
+bear:
+materials:,abbreviations,head,ears (make 2),muzzle,upper paws,lower legs,body
+bull:
+materials,abbreviations,head,ears (2 pcs),muzzle,horns (2 pcs),arms (2 pcs),legs & body,tail
+plush:
+materials,abbreviations,hands (2 parts),cheeks (2 parts),beak,legs (2 parts),body,head,assembly
+lalafanfan:
+materials,abbreviations,hands (2 parts),cheeks (2 parts),beak,legs (2 parts),body,head,assembly
+easy:
+materials,abbreviations,body,head,arms (2 parts),legs (2 parts),tail,ears (2 parts)
+plush:
+materials,abbreviations,body,head,arms (2 parts),legs (2 parts),tail,ears (2 parts)
+bunny:
+materials,abbreviations,body,head,arms (2 parts),legs (2 parts),tail,ears (2 parts)
+skier:
+abbreviations,materials,legs & body,body,arms (make 2),head,ears (make 2),muzzle,beanie,shoes (make 2),skis (make 2),tie shoes (make 2),ski poles (make 2)
+bear:
+abbreviations,materials,legs & body,body,arms (make 2),head,ears (make 2),muzzle,beanie,shoes (make 2),skis (make 2),tie shoes (make 2),ski poles (make 2)
+nino:
+abbreviations,materials,legs & body,body,arms (make 2),head,ears (make 2),muzzle,beanie,shoes (make 2),skis (make 2),tie shoes (make 2),ski poles (make 2)
+bear:
+materials,abbreviations,head,ears (make 2),muzzle,rim on the ring,collar
+baby:
+materials,abbreviations,head,ears (make 2),muzzle,rim on the ring,collar
+rattle:
+materials,abbreviations,head,ears (make 2),muzzle,rim on the ring,collar
+little:
+materials and tools,abbreviations,body,tail,arms (make two),legs (make two),ears (make two),muzzle,assembling
+tiger:
+materials and tools,abbreviations,body,tail,arms (make two),legs (make two),ears (make two),muzzle,assembling
+owl:
+necessary materials,abbreviations,donut,eyes (2 pcs),wings (2 pcs),tassels,tummy,tummy tuck
+donut:
+necessary materials,abbreviations,donut,eyes (2 pcs),wings (2 pcs),tassels,tummy,tummy tuck
+penguin:
+materials,abbreviations,penguin amigurumi,head of the penguin amigurumi (in grayish blue color),body,peak,wings (we make two),legs (x2),tail,scarf,hat,assembly
+pipo:
+materials,abbreviations,penguin amigurumi,head of the penguin amigurumi (in grayish blue color),body,peak,wings (we make two),legs (x2),tail,scarf,hat,assembly
+kawaii:
+materials,abbreviations,pear,smaller leaf,larger leaf,legs,stem,cheeks,seams
+pear:
+materials,abbreviations,pear,smaller leaf,larger leaf,legs,stem,cheeks,seams
+cute:
+materials,arms (make 2),legs (make 2),ears,tail,nose,body,head
+teddy:
+materials,arms (make 2),legs (make 2),ears,tail,nose,body,head
+bear:
+materials,arms (make 2),legs (make 2),ears,tail,nose,body,head
+little:
+materials,abbreviations,face,head and body,arms (make 2),legs (make 2),ears (make 2),tail,mouth and tongue
+monkey:
+materials,abbreviations,face,head and body,arms (make 2),legs (make 2),ears (make 2),tail,mouth and tongue
+keychain:
+materials,abbreviations,face,head and body,arms (make 2),legs (make 2),ears (make 2),tail,mouth and tongue
+mini:
+necessary materials,abbreviations,head,muzzle,ears (make 2),arms & tail (make 3),legs & body,collar
+tiger:
+necessary materials,abbreviations,head,muzzle,ears (make 2),arms & tail (make 3),legs & body,collar
+valentine's:
+materials,abbreviations,body,tail
+kitten:
+materials,abbreviations,body,tail
+cute:
+necessary materials:,abbreviations,head:,horns (2 pcs):,ears (2 pcs):,arms (2 pcs):,legs+body:,dress:,design and assembly:
+goat:
+necessary materials:,abbreviations,head:,horns (2 pcs):,ears (2 pcs):,arms (2 pcs):,legs+body:,dress:,design and assembly:
+doll:
+necessary materials:,abbreviations,head:,horns (2 pcs):,ears (2 pcs):,arms (2 pcs):,legs+body:,dress:,design and assembly:
+valentine:
+abbreviation,legs (make 2),body,head,ears (make 2),muzzle (whie yarn),arms (make 2),scarf,heart (2 pieces)
+bear's:
+abbreviation,legs (make 2),body,head,ears (make 2),muzzle (whie yarn),arms (make 2),scarf,heart (2 pieces)
+kitty:
+materials:,abbreviations,arms.,legs.,head.,ears.,tail.
+dunyasha:
+materials:,abbreviations,arms.,legs.,head.,ears.,tail.
+francais:
+materials,abbreviations,head & body,beak,legs (make 2),feet (make 2),wings (make 2)
+the:
+materials,abbreviations,head & body,beak,legs (make 2),feet (make 2),wings (make 2)
+puffin:
+materials,abbreviations,head & body,beak,legs (make 2),feet (make 2),wings (make 2)
+easy:
+materials:,abbreviations,legs,arms,muzzle,tail,body and head
+pink:
+materials:,abbreviations,legs,arms,muzzle,tail,body and head
+plush:
+materials:,abbreviations,legs,arms,muzzle,tail,body and head
+bear:
+materials:,abbreviations,legs,arms,muzzle,tail,body and head
+emperor:
+materials,abbreviations,wings (make 2),legs & body,tail,head,beak,feet (make 2)
+penguin:
+materials,abbreviations,wings (make 2),legs & body,tail,head,beak,feet (make 2)
+easy:
+materials,abbreviations,legs body head,ears,tail,arms
+spring:
+materials,abbreviations,legs body head,ears,tail,arms
+bunny:
+materials,abbreviations,legs body head,ears,tail,arms
+valentine:
+materials,abbreviations,body,ears,legs,arms,nose,heart
+dog:
+materials,abbreviations,body,ears,legs,arms,nose,heart
+cute:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,heart
+cat:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,heart
+with:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,heart
+heart:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,heart
+easy:
+material,abbreviations,body,nose,arms (x2),ears (x2)
+manfred:
+material,abbreviations,body,nose,arms (x2),ears (x2)
+bear:
+material,abbreviations,body,nose,arms (x2),ears (x2)
+bunny:
+materials,abbreviations,arms (2 parts),legs (2 parts),body,head,ears (2 parts),tail
+mariana:
+materials,abbreviations,arms (2 parts),legs (2 parts),body,head,ears (2 parts),tail
+keychain:
+materials,abbreviations,arms (2 parts),legs (2 parts),body,head,ears (2 parts),tail
+muffin:
+materials,abbreviations,head,horn,ear,muzzle,bow,leg,body,arm,necklace,bag
+the:
+materials,abbreviations,head,horn,ear,muzzle,bow,leg,body,arm,necklace,bag
+cow:
+materials,abbreviations,head,horn,ear,muzzle,bow,leg,body,arm,necklace,bag
+easy:
+materials,abbrevations,head,muzzle,arms,ears,belly,legs,body,tail,assembly
+teddy:
+materials,abbrevations,head,muzzle,arms,ears,belly,legs,body,tail,assembly
+bear:
+materials,abbrevations,head,muzzle,arms,ears,belly,legs,body,tail,assembly
+sea:
+materials,abbreviations,head & body,snout,teeth (make 2),front flippers (make 2),hind flippers (make 2)
+lion:
+materials,abbreviations,head & body,snout,teeth (make 2),front flippers (make 2),hind flippers (make 2)
+billy:
+materials,abbreviations,head & body,snout,teeth (make 2),front flippers (make 2),hind flippers (make 2)
+cute:
+required materials:,abbreviations,head,legs: white,body:,arms: white,ears:,muzzle: white,tail: white,snood:
+tiger:
+required materials:,abbreviations,head,legs: white,body:,arms: white,ears:,muzzle: white,tail: white,snood:
+in:
+required materials:,abbreviations,head,legs: white,body:,arms: white,ears:,muzzle: white,tail: white,snood:
+sweater:
+required materials:,abbreviations,head,legs: white,body:,arms: white,ears:,muzzle: white,tail: white,snood:
+koala:
+abbreviations,materials,head,body,nose,ears (make 2),inner ear,arms (make 2),legs (make 2),hair for koala,peach,leaf
+keychain:
+abbreviations,materials,head,body,nose,ears (make 2),inner ear,arms (make 2),legs (make 2),hair for koala,peach,leaf
+bunny:
+necessary materials:,abbreviations,head:,body:,arms 2 pcs:,legs 2 pcs:,ears 2 pcs:,tail:,patches 3 pcs: gray,scarf:,cap:,assembling the toy:
+buddy:
+necessary materials:,abbreviations,head:,body:,arms 2 pcs:,legs 2 pcs:,ears 2 pcs:,tail:,patches 3 pcs: gray,scarf:,cap:,assembling the toy:
+sport:
+material,abbreviations,head + body,neck stiffener,arm (x2),leg (x2),ear (x2),trousers + shirt,ball
+bunny:
+material,abbreviations,head + body,neck stiffener,arm (x2),leg (x2),ear (x2),trousers + shirt,ball
+tiger:
+materials:,abbreviations,legs,body,head,muzzle,arms,tummy,tail,ears,assembly
+doll:
+materials:,abbreviations,legs,body,head,muzzle,arms,tummy,tail,ears,assembly
+yellow:
+abbreviations,head- body,beak,eyes,crest,wings,legs,fingers
+little:
+abbreviations,head- body,beak,eyes,crest,wings,legs,fingers
+bird:
+abbreviations,head- body,beak,eyes,crest,wings,legs,fingers
+cute:
+necessary materials:,abbreviations,body,head:,legs,paws,tail,assembly
+penguin:
+necessary materials:,abbreviations,body,head:,legs,paws,tail,assembly
+little:
+materials,abbreviations,head,body,belly,legs (make 2),arms (make 2),tail,assembly
+dinosaur:
+materials,abbreviations,head,body,belly,legs (make 2),arms (make 2),tail,assembly
+the:
+abbreviations,materials,head & body,muzzle,ears (make 2),arms (make 2),tail,chinese hat
+tofu:
+abbreviations,materials,head & body,muzzle,ears (make 2),arms (make 2),tail,chinese hat
+tiger:
+abbreviations,materials,head & body,muzzle,ears (make 2),arms (make 2),tail,chinese hat
+the:
+abbreviations,materials,head & body,arms (make 2),chinese straw hat
+little:
+abbreviations,materials,head & body,arms (make 2),chinese straw hat
+chinese:
+abbreviations,materials,head & body,arms (make 2),chinese straw hat
+ramen:
+abbreviations,materials,head & body,arms (make 2),chinese straw hat
+bunny:
+materials,abbreviations,head,body,ears (make 2),arms (make 2),legs (make 2),fluffy tail,headband,assembly head,assembly body,descargar patron pdf
+lotta:
+materials,abbreviations,head,body,ears (make 2),arms (make 2),legs (make 2),fluffy tail,headband,assembly head,assembly body,descargar patron pdf
+the:
+materials,abbreviations,head & body,arms (make 2),ears (make 2),bib,necklace,bell,koban (big coin)
+lucky:
+materials,abbreviations,head & body,arms (make 2),ears (make 2),bib,necklace,bell,koban (big coin)
+cat:
+materials,abbreviations,head & body,arms (make 2),ears (make 2),bib,necklace,bell,koban (big coin)
+maneki:
+materials,abbreviations,head & body,arms (make 2),ears (make 2),bib,necklace,bell,koban (big coin)
+gingerbread:
+materials,abbreviations,the toy is crocheted with a single piece.,head
+man:
+materials,abbreviations,the toy is crocheted with a single piece.,head
+keychain:
+materials,abbreviations,the toy is crocheted with a single piece.,head
+little:
+materials,abbreviations,head,body,leg (make 2),ear (make 2),arm (make 2),nose
+piggy:
+materials,abbreviations,head,body,leg (make 2),ear (make 2),arm (make 2),nose
+cute:
+materials,abbreviations,head,nose,cheeks,ears,arms,legs,body
+koala:
+materials,abbreviations,head,nose,cheeks,ears,arms,legs,body
+plush:
+materials,abbreviations,body,tummy,wings,tail,paws,beak,scarf,assembly
+penguin:
+materials,abbreviations,body,tummy,wings,tail,paws,beak,scarf,assembly
+hermione:
+abbreviations,materials,legs,sock,body,sweater collar,shirt collar,arm,skirt,head,magician's robe,magician robe sleeve,magician robe collar,hair,scarf,shoes
+granger:
+abbreviations,materials,legs,sock,body,sweater collar,shirt collar,arm,skirt,head,magician's robe,magician robe sleeve,magician robe collar,hair,scarf,shoes
+easy:
+materials,abbreviations,head,spout,ears,arms,legs,body,tail,tummy,scarf
+tiger:
+materials,abbreviations,head,spout,ears,arms,legs,body,tail,tummy,scarf
+duck:
+materials,abbreviations,head,body and legs,arms (make 2),cheeks (make 2),beak,white pimple on head
+lalafan:
+materials,abbreviations,head,body and legs,arms (make 2),cheeks (make 2),beak,white pimple on head
+elephant:
+materials,abbreviations,head,body,ears (4 parts),arms (2 parts),legs (2 parts)
+marry:
+materials,abbreviations,head,body,ears (4 parts),arms (2 parts),legs (2 parts)
+plush:
+required materials,abbreviations,legs (2 parts),handles (2 parts),ears (2 details),body-head,tail,skirt
+sophie:
+required materials,abbreviations,legs (2 parts),handles (2 parts),ears (2 details),body-head,tail,skirt
+bunny:
+required materials,abbreviations,legs (2 parts),handles (2 parts),ears (2 details),body-head,tail,skirt
+harry:
+abbreviations,materials,legs,shoes,trouser leg,body,belt,sweater collar,shirt collar,arm,head,magician's robe,magician robe sleeve,magician robe collar,hair,scarf
+potter:
+abbreviations,materials,legs,shoes,trouser leg,body,belt,sweater collar,shirt collar,arm,head,magician's robe,magician robe sleeve,magician robe collar,hair,scarf
+giraffe:
+necessary materials:,abbreviations,head:,horns:,muzzle:,ears:,upper paws:,legs-body:,tail:,spots:,assembly
+girl:
+necessary materials:,abbreviations,head:,horns:,muzzle:,ears:,upper paws:,legs-body:,tail:,spots:,assembly
+valentine's:
+abbreviations,materials,head,nose & tail,ears (make 2),arms (make 2),legs (make 2),body,assembly,heart
+day:
+abbreviations,materials,head,nose & tail,ears (make 2),arms (make 2),legs (make 2),body,assembly,heart
+plush:
+abbreviations,materials,head,nose & tail,ears (make 2),arms (make 2),legs (make 2),body,assembly,heart
+bear:
+abbreviations,materials,head,nose & tail,ears (make 2),arms (make 2),legs (make 2),body,assembly,heart
+cute:
+materials,abbreviations,ears: 2 parts,horns: 2 parts,muzzle: 1 detail,head: 1 detail,tail: 1 piece,hands: 2 parts,legs: 2 parts,body
+deer:
+materials,abbreviations,ears: 2 parts,horns: 2 parts,muzzle: 1 detail,head: 1 detail,tail: 1 piece,hands: 2 parts,legs: 2 parts,body
+freddie:
+material:,abbreviations,head,muzzle,ears x2,horns x2,legs and body,arms x2,tail,dots x12
+the:
+material:,abbreviations,head,muzzle,ears x2,horns x2,legs and body,arms x2,tail,dots x12
+giraffe:
+material:,abbreviations,head,muzzle,ears x2,horns x2,legs and body,arms x2,tail,dots x12
+zebra:
+materials,abbreviations,head,muzzle,ears [2 parts],legs [2 parts],hands [2 parts],handbag,ears for handbag [2 details],mane,tail,bang (fringe)
+doll:
+materials,abbreviations,head,muzzle,ears [2 parts],legs [2 parts],hands [2 parts],handbag,ears for handbag [2 details],mane,tail,bang (fringe)
+seal:
+abbreviations,materials,head & body,muzzle,flippers (make 2),tail,beanie
+penguin:
+abbreviations,materials,head & body,beck,tail,foot (make 2),wings (make 2),earmuffs (make 2),scarf
+baby:
+materials,abbreviations,head,body,arms,legs,ears,tail,assembly
+tiger:
+materials,abbreviations,head,body,arms,legs,ears,tail,assembly
+cow:
+you will need:,abbreviations,head,body,head patch,ears (make 2),belly patch,horns,legs,nose,arms (make 2)
+keychain:
+you will need:,abbreviations,head,body,head patch,ears (make 2),belly patch,horns,legs,nose,arms (make 2)
+plush:
+required materials and tools,abbreviations,hands: (2 parts),ears: (2 parts),eyes: (2 parts),nose,tail,forelock,legs: (2 parts),head
+panda:
+required materials and tools,abbreviations,hands: (2 parts),ears: (2 parts),eyes: (2 parts),nose,tail,forelock,legs: (2 parts),head
+little:
+you will need:,abbreviations,head,body,nose,inner ear,ears,legs,arms,tail,belly
+fox:
+you will need:,abbreviations,head,body,nose,inner ear,ears,legs,arms,tail,belly
+keychain:
+you will need:,abbreviations,head,body,nose,inner ear,ears,legs,arms,tail,belly
+velvet:
+materials,abbreviations,upper legs,lower legs,ears and tail.,tail,body,head,assembly
+bunny:
+materials,abbreviations,upper legs,lower legs,ears and tail.,tail,body,head,assembly
+big:
+materials,a head for a big snake,tail,a head fod a small snake
+snake:
+materials,a head for a big snake,tail,a head fod a small snake
+plush:
+materials,abbreviations,head,strip,feet,wings,body,collar,bow tie
+velvet:
+materials,abbreviations,head,strip,feet,wings,body,collar,bow tie
+penguin:
+materials,abbreviations,head,strip,feet,wings,body,collar,bow tie
+bunny:
+materials,body,back part of the body,legs,arms,ears,tail,bow,assembling
+charlotte:
+materials,body,back part of the body,legs,arms,ears,tail,bow,assembling
+home:
+materials,abbreviations,foot / leg,body,head,hair,arm,sweater,side of the sweater,sleeve
+alone:
+materials,abbreviations,foot / leg,body,head,hair,arm,sweater,side of the sweater,sleeve
+kevin:
+materials,abbreviations,foot / leg,body,head,hair,arm,sweater,side of the sweater,sleeve
+easy:
+materials,abbreviations,head body,hands,legs,cheeks,wings,antennas,assembly
+bee:
+materials,abbreviations,head body,hands,legs,cheeks,wings,antennas,assembly
+doll:
+materials,abbreviations,head,ears for hat,hat,legs,body,arms,skirt
+with:
+materials,abbreviations,head,ears for hat,hat,legs,body,arms,skirt
+bunny:
+materials,abbreviations,head,ears for hat,hat,legs,body,arms,skirt
+hat:
+materials,abbreviations,head,ears for hat,hat,legs,body,arms,skirt
+plush:
+materials,abbreviations,head,ears,arms,legs,body
+velvet:
+materials,abbreviations,head,ears,arms,legs,body
+tiger:
+materials,abbreviations,head,ears,arms,legs,body
+rocker:
+materials,abbreviations,head,neck,back-body,legs,ears,mane,tail,rocking chair
+horse:
+materials,abbreviations,head,neck,back-body,legs,ears,mane,tail,rocking chair
+sleeping:
+abbreviations,materials,head,ears x2,headband,sew eyes and nose,body,dress,hands x2,legs x2
+bunny:
+abbreviations,materials,head,ears x2,headband,sew eyes and nose,body,dress,hands x2,legs x2
+stay:
+materials,abbreviations,head,body,legs (2 parts),handles (2 parts),sailor's hat,assembly
+puft:
+materials,abbreviations,head,body,legs (2 parts),handles (2 parts),sailor's hat,assembly
+marshmallow:
+materials,abbreviations,head,body,legs (2 parts),handles (2 parts),sailor's hat,assembly
+man:
+materials,abbreviations,head,body,legs (2 parts),handles (2 parts),sailor's hat,assembly
+little:
+abbreviations,materials,head & body,ears (make 2),wings (make 2)
+bat:
+abbreviations,materials,head & body,ears (make 2),wings (make 2)
+keychain:
+necessary materials,abbreviations,body,head,legs (2 parts),arms (2 parts),tail,ears (2 parts),make muzzle and nose
+winter:
+necessary materials,abbreviations,body,head,legs (2 parts),arms (2 parts),tail,ears (2 parts),make muzzle and nose
+tiger:
+necessary materials,abbreviations,body,head,legs (2 parts),arms (2 parts),tail,ears (2 parts),make muzzle and nose
+pig:
+hands (make 2) / legs (make 2),ears (make 2),body,head,cap,pig's nose,tail,skirt,bow,pants,assembling the toy
+surprise:
+hands (make 2) / legs (make 2),ears (make 2),body,head,cap,pig's nose,tail,skirt,bow,pants,assembling the toy
+realistic:
+tools and materials,abbreviations,head,legs, (2 parts),body,arms (2 parts),ears, (2 parts),tail
+bunny:
+tools and materials,abbreviations,head,legs, (2 parts),body,arms (2 parts),ears, (2 parts),tail
+cute:
+materials,abbreviations,head and body,muzzle,head fin,side fins
+seahorse:
+materials,abbreviations,head and body,muzzle,head fin,side fins
+tiger:
+required materials and tools:,abbreviations,handles,tail,legs and body,muzzle,ears,assembly,overalls,upper part
+with:
+required materials and tools:,abbreviations,handles,tail,legs and body,muzzle,ears,assembly,overalls,upper part
+overalls:
+required materials and tools:,abbreviations,handles,tail,legs and body,muzzle,ears,assembly,overalls,upper part
+no:
+abbreviations,head,body,outfit,arms,hat
+face:
+abbreviations,head,body,outfit,arms,hat
+plush:
+abbreviations,head,body,ears (make 2),leaves
+strawberry:
+abbreviations,head,body,ears (make 2),leaves
+bunny:
+abbreviations,head,body,ears (make 2),leaves
+pear:
+materials needed:,abbreviations:,snout,ears (make 2),stem,head and body,lazy daisy stitch is as follows:,arms: (make 2),legs: (wake 2)
+bear:
+materials needed:,abbreviations:,snout,ears (make 2),stem,head and body,lazy daisy stitch is as follows:,arms: (make 2),legs: (wake 2)
+cat:
+materials,abbreviations,head,leg (make 2),body,arm (make 2),ear (make 2)
+chucky:
+materials,abbreviations,body in blue,arms x 2,white shoes,orange hair
+keychain:
+materials,abbreviations,body in blue,arms x 2,white shoes,orange hair
+vilma:
+abbreviations,materials,head and body,snout,little horn,legs x 2,arms x 2,flowers x 3,ears,mane,tail
+unicorn:
+abbreviations,materials,head and body,snout,little horn,legs x 2,arms x 2,flowers x 3,ears,mane,tail
+ghost:
+materials,abbreviations,witch hat,mini ghost,arms x 2
+in:
+materials,abbreviations,witch hat,mini ghost,arms x 2
+witch:
+materials,abbreviations,witch hat,mini ghost,arms x 2
+hat:
+materials,abbreviations,witch hat,mini ghost,arms x 2
+kitten:
+materials,abbreviations,head,body,legs (blank),arms (in light gray),ears (with gray color),tail (in gray),skirt (with violet color),hat (with violet color)
+anne:
+materials,abbreviations,head,body,legs (blank),arms (in light gray),ears (with gray color),tail (in gray),skirt (with violet color),hat (with violet color)
+christmas:
+abbreviations,materials,head,ears x2,horns x2,legs x2,body,skirt,arms x2
+little:
+abbreviations,materials,head,ears x2,horns x2,legs x2,body,skirt,arms x2
+reni:
+abbreviations,materials,head,ears x2,horns x2,legs x2,body,skirt,arms x2
+crocus:
+materials,abbreviations,bulb + stem,petals (make 6),stamens,leaves,pot,assembly
+christmas:
+materials,stiches & terms,base,body
+tree:
+materials,stiches & terms,base,body
+basket:
+materials,stiches & terms,base,body
+boat:
+pdf crochet boat & sailboat amigurumi free pattern,abbreviations,boat (beginning),sailboat (beginning)
+&:
+pdf crochet boat & sailboat amigurumi free pattern,abbreviations,boat (beginning),sailboat (beginning)
+sailboat:
+pdf crochet boat & sailboat amigurumi free pattern,abbreviations,boat (beginning),sailboat (beginning)
+joey:
+joey's hat,ears (make 2),antlers (make 2),arms (make 2),scarf
+the:
+joey's hat,ears (make 2),antlers (make 2),arms (make 2),scarf
+christmas:
+joey's hat,ears (make 2),antlers (make 2),arms (make 2),scarf
+boy:
+joey's hat,ears (make 2),antlers (make 2),arms (make 2),scarf
+cat:
+materials,abbreviations,ears,head,handle
+rattle:
+materials,abbreviations,ears,head,handle
+little:
+materials,abbreviations,head,legs & body,arms,trouser,shirt,hat,ears for hat,nose for hat
+kid:
+materials,abbreviations,head,legs & body,arms,trouser,shirt,hat,ears for hat,nose for hat
+with:
+materials,abbreviations,head,legs & body,arms,trouser,shirt,hat,ears for hat,nose for hat
+tiger:
+materials,abbreviations,head,legs & body,arms,trouser,shirt,hat,ears for hat,nose for hat
+hat:
+materials,abbreviations,head,legs & body,arms,trouser,shirt,hat,ears for hat,nose for hat
+zombie:
+pumpkin,ears (make 2),arms (make 2),legs (make 2),tail,snout,hat,head
+pumpkin:
+pumpkin,ears (make 2),arms (make 2),legs (make 2),tail,snout,hat,head
+mouse:
+pumpkin,ears (make 2),arms (make 2),legs (make 2),tail,snout,hat,head
+sylvester:
+materials,abbreviations,lower legs and body,head,upper legs,ears,muzzle,tail,assembly
+cat:
+materials,abbreviations,lower legs and body,head,upper legs,ears,muzzle,tail,assembly
+cloudy:
+materials,abbreviations,cloudy,cheeks 2x,crown,completion
+baby:
+materials,abbreviation,body (beige),lips (light yellow),wings*2 (light gray),assemble,the upper eggshell (white),the lower eggshell (white)
+bird:
+materials,abbreviation,body (beige),lips (light yellow),wings*2 (light gray),assemble,the upper eggshell (white),the lower eggshell (white)
+cute:
+abbreviations,head,trunk,body,ears (make 2),legs (make 2),tail,fangs (make 2),assembling
+little:
+abbreviations,head,trunk,body,ears (make 2),legs (make 2),tail,fangs (make 2),assembling
+elephant:
+abbreviations,head,trunk,body,ears (make 2),legs (make 2),tail,fangs (make 2),assembling
+horse:
+materials,abbreviations,horse rattle pattern,head,ears,white stain,muzzle
+rattle:
+materials,abbreviations,horse rattle pattern,head,ears,white stain,muzzle
+christmas:
+abbreviations,shoes and legs (make 2),legs,body,head,arms (make 2),dress,collar of the dress,horns (make 2)
+merry:
+abbreviations,shoes and legs (make 2),legs,body,head,arms (make 2),dress,collar of the dress,horns (make 2)
+doll:
+abbreviations,shoes and legs (make 2),legs,body,head,arms (make 2),dress,collar of the dress,horns (make 2)
+christmas:
+materials,mitten cuff,mitten thumb,mitten hand,mitten string
+mittens:
+materials,mitten cuff,mitten thumb,mitten hand,mitten string
+ornament:
+materials,mitten cuff,mitten thumb,mitten hand,mitten string
+santa:
+necessary materials:,abbreviations,head:,nose,ears:,cap:,beard:,neck,scarf:,assembly:
+claus:
+necessary materials:,abbreviations,head:,nose,ears:,cap:,beard:,neck,scarf:,assembly:
+rattle:
+necessary materials:,abbreviations,head:,nose,ears:,cap:,beard:,neck,scarf:,assembly:
+acorn:
+materials,acorn,descargar patron pdf
+ball:
+materials,acorn,descargar patron pdf
+ornament:
+materials,acorn,descargar patron pdf
+bunny:
+abbreviations,shoes (make 2),the details of the shoes,the legs,body,head,arms (make 2),sweater,the arms of the sweater,hat,the ears of the hat
+doll:
+abbreviations,shoes (make 2),the details of the shoes,the legs,body,head,arms (make 2),sweater,the arms of the sweater,hat,the ears of the hat
+santa:
+materials needed,abbreviations,body,nose,pompom
+claus:
+materials needed,abbreviations,body,nose,pompom
+keychain:
+materials needed,abbreviations,body,nose,pompom
+plush:
+materials,abbreviations,head body,hands 2 parts,legs 2 parts,spout,hat,hat pompom,pompom for a scarf 2 pcs,scarf
+snowman:
+materials,abbreviations,head body,hands 2 parts,legs 2 parts,spout,hat,hat pompom,pompom for a scarf 2 pcs,scarf
+christmas:
+materials,christmas tree,smile and trunk
+tree:
+materials,christmas tree,smile and trunk
+ornament:
+materials,christmas tree,smile and trunk
+minnie:
+materials,abbreviations,arms (with white color),shoes (canary color),head,part of the face (with porcelain color),ear (with black color),dress hem (in crimson color),lace (with carmine color)
+mouse:
+materials,abbreviations,arms (with white color),shoes (canary color),head,part of the face (with porcelain color),ear (with black color),dress hem (in crimson color),lace (with carmine color)
+christmas:
+materials,stocking & heel,sock,heel,heel continued
+stocking:
+materials,stocking & heel,sock,heel,heel continued
+ornament:
+materials,stocking & heel,sock,heel,heel continued
+little:
+materials and tools,abbreviations,hands (2 parts),legs (2 parts),tail,body,ears (2 parts),head
+bunny:
+materials and tools,abbreviations,hands (2 parts),legs (2 parts),tail,body,ears (2 parts),head
+christmas:
+materials and tools,abbreviations,watch,arms and legs (make 4),bells (make 2),assembly
+watch:
+materials and tools,abbreviations,watch,arms and legs (make 4),bells (make 2),assembly
+ornament:
+materials and tools,abbreviations,watch,arms and legs (make 4),bells (make 2),assembly
+juan:
+materials and tools,abbreviations,head,body,legs (make 2),arms (make 2),tail,ears,assembly
+leon:
+materials and tools,abbreviations,head,body,legs (make 2),arms (make 2),tail,ears,assembly
+christmas:
+materials,abbreviations,coaster (brown/gold yarn),legs (make 04),nose red yarn,tongue red yarn,head,eyes (make 2),ears (make 2),antlers (make 2),antlers matching
+reindeer:
+materials,abbreviations,coaster (brown/gold yarn),legs (make 04),nose red yarn,tongue red yarn,head,eyes (make 2),ears (make 2),antlers (make 2),antlers matching
+coaster:
+materials,abbreviations,coaster (brown/gold yarn),legs (make 04),nose red yarn,tongue red yarn,head,eyes (make 2),ears (make 2),antlers (make 2),antlers matching
+autumn:
+abbreviations,legs (make 2),body,arm (make 2),coat,the arms of the coat (make 2),shoes (make 2),head,hat,bag,the cat (head),the cat ears
+doll:
+abbreviations,legs (make 2),body,arm (make 2),coat,the arms of the coat (make 2),shoes (make 2),head,hat,bag,the cat (head),the cat ears
+christmas:
+materials & tools,abbreviations,legs & body,ears,hat
+little:
+materials & tools,abbreviations,legs & body,ears,hat
+dog:
+materials & tools,abbreviations,legs & body,ears,hat
+phineas:
+abbreviations,arms (x2) (skin),body,eyes (white),ears (skin),head (skin),hair (red),t-shirt (crochet in a row, start in orange),pants (blue)
+and:
+abbreviations,arms (x2) (skin),body,eyes (white),ears (skin),head (skin),hair (red),t-shirt (crochet in a row, start in orange),pants (blue)
+ferb:
+abbreviations,arms (x2) (skin),body,eyes (white),ears (skin),head (skin),hair (red),t-shirt (crochet in a row, start in orange),pants (blue)
+cow:
+pacifier clip,you will need,head,nose,horns,ears (make 2),head patch,16 mm balls,rattle,ears
+pacifier:
+pacifier clip,you will need,head,nose,horns,ears (make 2),head patch,16 mm balls,rattle,ears
+clip:
+pacifier clip,you will need,head,nose,horns,ears (make 2),head patch,16 mm balls,rattle,ears
+and:
+pacifier clip,you will need,head,nose,horns,ears (make 2),head patch,16 mm balls,rattle,ears
+rattle:
+pacifier clip,you will need,head,nose,horns,ears (make 2),head patch,16 mm balls,rattle,ears
+set:
+pacifier clip,you will need,head,nose,horns,ears (make 2),head patch,16 mm balls,rattle,ears
+christmas:
+materials,abbreviations,hat,body,nose,legs
+gnome:
+materials,abbreviations,hat,body,nose,legs
+reindeer:
+materials,head and eyes,antlers and snout,snout,nose,ears,face details,descargar patron pdf
+christmas:
+materials,head and eyes,antlers and snout,snout,nose,ears,face details,descargar patron pdf
+ornament:
+materials,head and eyes,antlers and snout,snout,nose,ears,face details,descargar patron pdf
+fawn:
+materials,abbreviations,knitting part:,head,arm (make 2),legs,body,ears,antler,tail,shoes,dress up,knitted jacket,sleeves of the jacket
+deer:
+materials,abbreviations,knitting part:,head,arm (make 2),legs,body,ears,antler,tail,shoes,dress up,knitted jacket,sleeves of the jacket
+gazal:
+materials,abbreviations,knitting part:,head,arm (make 2),legs,body,ears,antler,tail,shoes,dress up,knitted jacket,sleeves of the jacket
+jellyfish:
+materials,head,fins,tentacles: total of 4,pompom
+christmas:
+materials,head,fins,tentacles: total of 4,pompom
+ornament:
+materials,head,fins,tentacles: total of 4,pompom
+baby:
+materials,abbreviation,nose,pacifier,tassel,eucalyptus leaf,body,ears,arms,legs
+koala:
+materials,abbreviation,nose,pacifier,tassel,eucalyptus leaf,body,ears,arms,legs
+christmas:
+materials,big cactus section,small cactus section,soil,pot,cactus needles
+cactus:
+materials,big cactus section,small cactus section,soil,pot,cactus needles
+ornament:
+materials,big cactus section,small cactus section,soil,pot,cactus needles
+christmas:
+materials,abbreviations,head,arms,cream,legs (make 2),body,skirt,accessory
+ginger:
+materials,abbreviations,head,arms,cream,legs (make 2),body,skirt,accessory
+cookie:
+materials,abbreviations,head,arms,cream,legs (make 2),body,skirt,accessory
+santa:
+materials,colour a,belt (make 2),belt buckle,buttons (make 2)
+donut:
+materials,colour a,belt (make 2),belt buckle,buttons (make 2)
+christmas:
+materials,body,eyes,beak & details
+owl:
+materials,body,eyes,beak & details
+ornament:
+materials,body,eyes,beak & details
+little:
+materials,abbreviations,legs (make 2),hair tie,head,hat,wings (make 2),arms,ears,antennas,assembly
+bee:
+materials,abbreviations,legs (make 2),hair tie,head,hat,wings (make 2),arms,ears,antennas,assembly
+mai:
+materials,abbreviations,legs (make 2),hair tie,head,hat,wings (make 2),arms,ears,antennas,assembly
+miss:
+materials,abbreviations,body,feet (make 2),hat,nose,left hand,arm,right hand,apron,hair,assembly,descargar patron pdf
+gnome:
+materials,abbreviations,body,feet (make 2),hat,nose,left hand,arm,right hand,apron,hair,assembly,descargar patron pdf
+bloo:
+materials,abbreviations,body,arms x2
+doll:
+abbreviations,arms (x2) (skin),body,head (skin),ears (skin),hair (calypso or light blue),pantolon (blue),t-shirt (white),sleeve (white),hat (red),shoes (red),microphone (gray),terminations
+friday:
+abbreviations,arms (x2) (skin),body,head (skin),ears (skin),hair (calypso or light blue),pantolon (blue),t-shirt (white),sleeve (white),hat (red),shoes (red),microphone (gray),terminations
+night:
+abbreviations,arms (x2) (skin),body,head (skin),ears (skin),hair (calypso or light blue),pantolon (blue),t-shirt (white),sleeve (white),hat (red),shoes (red),microphone (gray),terminations
+funkin:
+abbreviations,arms (x2) (skin),body,head (skin),ears (skin),hair (calypso or light blue),pantolon (blue),t-shirt (white),sleeve (white),hat (red),shoes (red),microphone (gray),terminations
+easy:
+materials,abbreviations,head:,body:,arm: (2 pcs.),leg: (2 pcs.),ear: (2 pcs.),horn: (2 pcs.),muzzle:,assembly
+mini:
+materials,abbreviations,head:,body:,arm: (2 pcs.),leg: (2 pcs.),ear: (2 pcs.),horn: (2 pcs.),muzzle:,assembly
+deer:
+materials,abbreviations,head:,body:,arm: (2 pcs.),leg: (2 pcs.),ear: (2 pcs.),horn: (2 pcs.),muzzle:,assembly
+cute:
+materials,abbreviations,head,body,legs (make 2),arm (make 2),belly,tail,big spikes (make 5),small spikes (make 2),face details,assembling
+dinosaur:
+materials,abbreviations,head,body,legs (make 2),arm (make 2),belly,tail,big spikes (make 5),small spikes (make 2),face details,assembling
+christmas:
+materials,abbreviations,body,head,horns (2 pc),ears,nose,assembly
+reindeer:
+materials,abbreviations,body,head,horns (2 pc),ears,nose,assembly
+monkey:
+materials,head,nose,ears (2 part's),collar,wooden balls,ears (2 parts)
+pacifier:
+materials,head,nose,ears (2 part's),collar,wooden balls,ears (2 parts)
+clip:
+materials,head,nose,ears (2 part's),collar,wooden balls,ears (2 parts)
+and:
+materials,head,nose,ears (2 part's),collar,wooden balls,ears (2 parts)
+rattle:
+materials,head,nose,ears (2 part's),collar,wooden balls,ears (2 parts)
+set:
+materials,head,nose,ears (2 part's),collar,wooden balls,ears (2 parts)
+cat:
+materials,abbreviations,head,body (change colon),ears,arms,tail,necklace
+esperanza:
+materials,abbreviations,head,body (change colon),ears,arms,tail,necklace
+christmas:
+materials,abbreviations,head,arm (make 2),leg (make 2),ears (make 2),scarf,hat
+donkey:
+materials,abbreviations,head,arm (make 2),leg (make 2),ears (make 2),scarf,hat
+snowman:
+abbreviations,materials,body,arm (make 2),head,hat,assembling
+ornament:
+abbreviations,materials,body,arm (make 2),head,hat,assembling
+paw:
+abbreviations,materials,head,body,tail,ears x2,nose,front legs,hind legs,hat,vicera,badge,assembly
+patrol:
+abbreviations,materials,head,body,tail,ears x2,nose,front legs,hind legs,hat,vicera,badge,assembly
+keychain:
+abbreviations,materials,head,body,tail,ears x2,nose,front legs,hind legs,hat,vicera,badge,assembly
+christmas:
+abbreviations & materials,body,arm (make 2),hat
+keychain:
+abbreviations & materials,body,arm (make 2),hat
+penguin:
+abbreviations & materials,body,arm (make 2),hat
+jague:
+materials,abbreviation,head,body,hair,buns,coat,pocket,arm (2x),hand (2x),feet (2x),mask,gloves,medicine
+scientist:
+materials,abbreviation,head,body,hair,buns,coat,pocket,arm (2x),hand (2x),feet (2x),mask,gloves,medicine
+baby:
+materials,abbreviation,head,body,hair,buns,coat,pocket,arm (2x),hand (2x),feet (2x),mask,gloves,medicine
+cheeky:
+materials,abbreviations,head,body,ears (make 2),tail,,collar,assembly,embroidery
+the:
+materials,abbreviations,head,body,ears (make 2),tail,,collar,assembly,embroidery
+cat:
+materials,abbreviations,head,body,ears (make 2),tail,,collar,assembly,embroidery
+christmas:
+materials,abbreviations,body and head,hair,ears (2 parts),hands (2 parts),legs (2 parts),overalls,hat
+elf:
+materials,abbreviations,body and head,hair,ears (2 parts),hands (2 parts),legs (2 parts),overalls,hat
+doll:
+materials,abbreviations,body and head,hair,ears (2 parts),hands (2 parts),legs (2 parts),overalls,hat
+ornament:
+materials,abbreviations,head & body,hat,scarf
+snowman:
+materials,abbreviations,head & body,hat,scarf
+maru:
+materials,abbreviation,head,body,snout broken white,arms (makes 2),legs (makes 2) light brown,tail (light brown),ears (make 2),assembly the face
+the:
+materials,abbreviation,head,body,snout broken white,arms (makes 2),legs (makes 2) light brown,tail (light brown),ears (make 2),assembly the face
+shiba:
+materials,abbreviation,head,body,snout broken white,arms (makes 2),legs (makes 2) light brown,tail (light brown),ears (make 2),assembly the face
+cartoon:
+materials,abbreviations,head & body,arm & leg (4),ear (make 2),tail,bag
+character:
+materials,abbreviations,head & body,arm & leg (4),ear (make 2),tail,bag
+molang:
+materials,abbreviations,head & body,arm & leg (4),ear (make 2),tail,bag
+hercules:
+materials,abbreviations,arms (make 2),legs (make 2),upper body,head,chiton,hair,lion pelt,bludgeon,assembly
+doll:
+materials,abbreviations,arms (make 2),legs (make 2),upper body,head,chiton,hair,lion pelt,bludgeon,assembly
+teddy:
+necessary materials.,abbreviations,lower legs (2 parts).,upper legs (2 parts).,body (crochet from bottom to top).,muzzle.,ears (2 parts).,nose.,assembling and decorating the bear.
+bear:
+necessary materials.,abbreviations,lower legs (2 parts).,upper legs (2 parts).,body (crochet from bottom to top).,muzzle.,ears (2 parts).,nose.,assembling and decorating the bear.
+theo:
+necessary materials.,abbreviations,lower legs (2 parts).,upper legs (2 parts).,body (crochet from bottom to top).,muzzle.,ears (2 parts).,nose.,assembling and decorating the bear.
+rhyna:
+abbreviations,materials,head + little body,hands (make 2),ears,horns (make 4),nose
+santa's:
+abbreviations,materials,head + little body,hands (make 2),ears,horns (make 4),nose
+helper:
+abbreviations,materials,head + little body,hands (make 2),ears,horns (make 4),nose
+mr.:
+to make this plush bear you will need:,legend:,head:,body:,paws:,legs:,ears:,tail:,muzzle:,assembly:,skirt:,hat:,pom pom:,download pattern pdf
+bean's:
+to make this plush bear you will need:,legend:,head:,body:,paws:,legs:,ears:,tail:,muzzle:,assembly:,skirt:,hat:,pom pom:,download pattern pdf
+teddy:
+to make this plush bear you will need:,legend:,head:,body:,paws:,legs:,ears:,tail:,muzzle:,assembly:,skirt:,hat:,pom pom:,download pattern pdf
+jimy:
+materials,abreviations,colors,head,snout,scales,body,legs,arms,tail
+the:
+materials,abreviations,colors,head,snout,scales,body,legs,arms,tail
+dinosaur:
+materials,abreviations,colors,head,snout,scales,body,legs,arms,tail
+tree:
+materials,abbreviations,head-body-legs,ears
+ornament:
+materials,abbreviations,head-body-legs,ears
+piggy:
+materials,abbreviations,head-body-legs,ears
+penguin:
+materials and tools,abbreviations used,head and body,wings (make 2),paws ( make 2),tail,hat
+kim:
+abbreviations,materials,arms x2,feet x2,pants,ears (x2),hair:,coat:,jacket (x2)
+tae-hyung:
+abbreviations,materials,arms x2,feet x2,pants,ears (x2),hair:,coat:,jacket (x2)
+doll:
+abbreviations,materials,arms x2,feet x2,pants,ears (x2),hair:,coat:,jacket (x2)
+snowmen:
+materials,abbreviations,head and body,hands (2 pieces),legs (2 pieces),hat,ears,visor,nose,scarf
+santa's:
+materials,abbreviations,head and body,ears (make 2),inside of the ears (make 2),arms (make 2),legs (make 2),candy cane tail,elvis hat,christmas hat,completion of the head,completion of the body
+little:
+materials,abbreviations,head and body,ears (make 2),inside of the ears (make 2),arms (make 2),legs (make 2),candy cane tail,elvis hat,christmas hat,completion of the head,completion of the body
+kitty:
+materials,abbreviations,head and body,ears (make 2),inside of the ears (make 2),arms (make 2),legs (make 2),candy cane tail,elvis hat,christmas hat,completion of the head,completion of the body
+helpers:
+materials,abbreviations,head and body,ears (make 2),inside of the ears (make 2),arms (make 2),legs (make 2),candy cane tail,elvis hat,christmas hat,completion of the head,completion of the body
+little:
+materials and tools,abbreviations,arms,ears,muzzle,legs,body,head,bow
+bear:
+materials and tools,abbreviations,arms,ears,muzzle,legs,body,head,bow
+giraffe:
+materials,head,body,arm (make 2),legs,nose,ears,patches (make 3),horns (make 2),descargar patron pdf
+keychain:
+materials,head,body,arm (make 2),legs,nose,ears,patches (make 3),horns (make 2),descargar patron pdf
+christmas:
+materials,abbreviations,head,body,hat with hair,halo,arm (make 2),wings (make 2)
+tree:
+materials,abbreviations,head,body,hat with hair,halo,arm (make 2),wings (make 2)
+ornament:
+materials,abbreviations,head,body,hat with hair,halo,arm (make 2),wings (make 2)
+angel:
+materials,abbreviations,head,body,hat with hair,halo,arm (make 2),wings (make 2)
+cute:
+materials and tools,abbreviations,arms,ears,legs,body,head,bow
+bunny:
+materials and tools,abbreviations,arms,ears,legs,body,head,bow
+reindeer:
+materials,abbreviations,head,snout,nose,ears (make 2),horns,arm (make 2),legs (make 2),body,assembling
+cat:
+materials,head,body,ears (make 2),inner ears (make 2),nose,legs (make 2),belly,arm (make 2),donut,icing
+keychain:
+materials,head,body,ears (make 2),inner ears (make 2),nose,legs (make 2),belly,arm (make 2),donut,icing
+master:
+materials,abbreviations,head,arm,ear,jacket,
+mango,cable,blade
+yoda:
+materials,abbreviations,head,arm,ear,jacket,
+mango,cable,blade
+pikachu:
+recommended materials and tools:,abbreviations,head,ears,legs (make 2),arms (make 2),body,tail
+pokemon:
+recommended materials and tools:,abbreviations,head,ears,legs (make 2),arms (make 2),body,tail
+animal:
+materials and instructions,head,body,belly,ears,tail,legs
+gazella:
+materials and instructions,head,body,belly,ears,tail,legs
+ahu:
+materials and instructions,head,body,belly,ears,tail,legs
+christmas:
+materials,abbreviations,bottom,final steps
+tree:
+materials,abbreviations,bottom,final steps
+rick:
+materials,abbreviations,legs body head,hands,bathrobe (white),wig,horns (6 pieces),whites of the eyes,eyebrow
+and:
+materials,abbreviations,legs body head,hands,bathrobe (white),wig,horns (6 pieces),whites of the eyes,eyebrow
+morty:
+materials,abbreviations,legs body head,hands,bathrobe (white),wig,horns (6 pieces),whites of the eyes,eyebrow
+bear:
+materials,head and body,ear (make 2),arm (make 2),leg (make 2),assembly of ears and limbs,mask,pocket,heart,id badge,lanyard
+nurse:
+materials,head and body,ear (make 2),arm (make 2),leg (make 2),assembly of ears and limbs,mask,pocket,heart,id badge,lanyard
+little:
+materials,abbreviations,head,horns,snout,ears,hands,legs,body,stains x 4,tail
+cute:
+materials,abbreviations,head,horns,snout,ears,hands,legs,body,stains x 4,tail
+giraffe:
+materials,abbreviations,head,horns,snout,ears,hands,legs,body,stains x 4,tail
+little:
+materials,abbreviations,ears,muzzle,head,arms,legs,body,assembly,ruffle sweater
+cute:
+materials,abbreviations,ears,muzzle,head,arms,legs,body,assembly,ruffle sweater
+teddy:
+materials,abbreviations,ears,muzzle,head,arms,legs,body,assembly,ruffle sweater
+bear:
+materials,abbreviations,ears,muzzle,head,arms,legs,body,assembly,ruffle sweater
+plush:
+necessary materials:,abbreviations,hands:,legs:,body:,head:,ears:,cloak:,assembly:,descargar patron pdf
+batman:
+necessary materials:,abbreviations,hands:,legs:,body:,head:,ears:,cloak:,assembly:,descargar patron pdf
+monsters:
+abbreviations,legs (make 2),arms (make 2),eye,horns (make 2),body
+mike:
+abbreviations,legs (make 2),arms (make 2),eye,horns (make 2),body
+candy:
+materials,abbreviations,legs and body,head,ears,arms,wings,assembly
+bat:
+materials,abbreviations,legs and body,head,ears,arms,wings,assembly
+little:
+materials,abbreviations,head,ears (2 details),cheeks (2 details),legs + body,hands (2 details),tummy,tail,scarf,assembling
+cute:
+materials,abbreviations,head,ears (2 details),cheeks (2 details),legs + body,hands (2 details),tummy,tail,scarf,assembling
+tiger:
+materials,abbreviations,head,ears (2 details),cheeks (2 details),legs + body,hands (2 details),tummy,tail,scarf,assembling
+snowman:
+body,heart,arm (make 2),scarf,hat
+kangaroo:
+head,body,legs (make 2),arm (make 2),nose,ears (make 2)
+keychain:
+head,body,legs (make 2),arm (make 2),nose,ears (make 2)
+lifeguard:
+materials,abbreviations,arms (make 2),legs (make 2),body,hair,float,swim cap,,assembly
+terry:
+materials,abbreviations,arms (make 2),legs (make 2),body,hair,float,swim cap,,assembly
+doll:
+materials,abbreviations,arms (make 2),legs (make 2),body,hair,float,swim cap,,assembly
+pikachu:
+materials,abbreviations,legs and body,visor,cheeks 2 pcs,ears 2 pcs,backpack,tail
+among:
+materials,abbreviations,legs and body,visor,cheeks 2 pcs,ears 2 pcs,backpack,tail
+us:
+materials,abbreviations,legs and body,visor,cheeks 2 pcs,ears 2 pcs,backpack,tail
+oliver:
+materials:,abbreviations:,detailed instructions:,body & head:,strasp & hem:,nose:,ears:,arms:,hat:
+the:
+materials:,abbreviations:,detailed instructions:,body & head:,strasp & hem:,nose:,ears:,arms:,hat:
+bunny:
+materials:,abbreviations:,detailed instructions:,body & head:,strasp & hem:,nose:,ears:,arms:,hat:
+lion:
+materials,abbreviations,head,ears,muzzle,hair,assembling,ball
+pacifier:
+materials,abbreviations,head,ears,muzzle,hair,assembling,ball
+clip:
+materials,abbreviations,head,ears,muzzle,hair,assembling,ball
+mr.:
+abbreviations:,materials:,head,body,arms (make 2),legs (make 2),hat,eyes (make 2),nose,mouth
+poopybutthole:
+abbreviations:,materials:,head,body,arms (make 2),legs (make 2),hat,eyes (make 2),nose,mouth
+cute:
+materials,abbreviations,head,horn,ears,hands,legs and body,mane
+unicorn:
+materials,abbreviations,head,horn,ears,hands,legs and body,mane
+cute:
+materials:,abbreviations,head,muzzle,handles (2 pcs.),ears (2 pcs.),nostrils (2 pcs.),legs (2 pcs.),body,tail
+hippo:
+materials:,abbreviations,head,muzzle,handles (2 pcs.),ears (2 pcs.),nostrils (2 pcs.),legs (2 pcs.),body,tail
+poppy:
+materials and tools:,abbreviations:,legs and arms (4 pcs),nose,ears (2 pcs),body,tail,assembly and decoration,bow,scarf
+pig:
+materials and tools:,abbreviations:,legs and arms (4 pcs),nose,ears (2 pcs),body,tail,assembly and decoration,bow,scarf
+cute:
+materials,abbreviations,head,carrot nose,arms (make 2),legs (make 2),body,hat,scarf
+kid:
+materials,abbreviations,head,carrot nose,arms (make 2),legs (make 2),body,hat,scarf
+snowman:
+materials,abbreviations,head,carrot nose,arms (make 2),legs (make 2),body,hat,scarf
+cute:
+materials,abbreviations,legs,hands,body and head,nose,beanie,scarf
+christmas:
+materials,abbreviations,legs,hands,body and head,nose,beanie,scarf
+snowman:
+materials,abbreviations,legs,hands,body and head,nose,beanie,scarf
+the:
+materials,abbreviations,head,snout,ears (x2),arms (x2),legs (x2),body,assembling
+bear:
+materials,abbreviations,head,snout,ears (x2),arms (x2),legs (x2),body,assembling
+christmas:
+materials,abbreviations,head,snout,ears (x2),arms (x2),legs (x2),body,assembling
+toys:
+materials,abbreviations,head,snout,ears (x2),arms (x2),legs (x2),body,assembling
+captain:
+materials,abbreviations,legs (2pcs):,body:,head:,hands (2pcs):,shield:,helmet:
+america:
+materials,abbreviations,legs (2pcs):,body:,head:,hands (2pcs):,shield:,helmet:
+tiny:
+abbreviations,materials,stem,arms and legs,tree,ornaments,assembling
+christmas:
+abbreviations,materials,stem,arms and legs,tree,ornaments,assembling
+tree:
+abbreviations,materials,stem,arms and legs,tree,ornaments,assembling
+vintage:
+abbreviations,materials,ghost base,bottom "shadow' trim,middle "shadow' trim,top 'sheet' trim,finishing touches,top hat,flower
+ghost:
+abbreviations,materials,ghost base,bottom "shadow' trim,middle "shadow' trim,top 'sheet' trim,finishing touches,top hat,flower
+teddy:
+head,ears (make 2),nose
+bear:
+head,ears (make 2),nose
+yakitori:
+head,ears (make 2),nose
+keychain:
+head,ears (make 2),nose
+little:
+materials,abbreviations,head, option 1 (wide muzzle),head, option 2 (narrow muzzle),ears (make 2),horns (make 2),body,tail,legs (make 2),arms (make 2),assembly
+reindeer:
+materials,abbreviations,head, option 1 (wide muzzle),head, option 2 (narrow muzzle),ears (make 2),horns (make 2),body,tail,legs (make 2),arms (make 2),assembly
+christmas:
+materials and tools,abbreviations,head to the bottom of the body,arms,thrumb,nose,eyes,scarf,ribbed band,beanie,pompoms,assembly
+snowman:
+materials and tools,abbreviations,head to the bottom of the body,arms,thrumb,nose,eyes,scarf,ribbed band,beanie,pompoms,assembly
+yuki:
+materials and tools,abbreviations,head to the bottom of the body,arms,thrumb,nose,eyes,scarf,ribbed band,beanie,pompoms,assembly
+christmas:
+materials,abbreviations,tree body,tree stump,star,assembly
+tree:
+materials,abbreviations,tree body,tree stump,star,assembly
+santa:
+materials,abbreviations,arms (make 2),legs (make 2),body,head,beard,hat,assembly
+claus:
+materials,abbreviations,arms (make 2),legs (make 2),body,head,beard,hat,assembly
+christmas:
+materials,abbreviations,arms (make 2),legs (make 2),body,head,beard,hat,assembly
+christmas:
+material and tools,abbreviations,finger,main crochet,white colour
+ornaments:
+material and tools,abbreviations,finger,main crochet,white colour
+glove:
+material and tools,abbreviations,finger,main crochet,white colour
+yeti:
+materials needed:,abbreviations:,head:,hood:,body:,body continued:,arms(make 2):,fingers(make 3):,arms continued:,horns:,belly:,ears:,goggles:,goggles continued:,google strap:,snowboard:,bindings:,scarf:,assembly,helpful tips:
+step:
+materials needed:,abbreviations:,head:,hood:,body:,body continued:,arms(make 2):,fingers(make 3):,arms continued:,horns:,belly:,ears:,goggles:,goggles continued:,google strap:,snowboard:,bindings:,scarf:,assembly,helpful tips:
+by:
+materials needed:,abbreviations:,head:,hood:,body:,body continued:,arms(make 2):,fingers(make 3):,arms continued:,horns:,belly:,ears:,goggles:,goggles continued:,google strap:,snowboard:,bindings:,scarf:,assembly,helpful tips:
+step:
+materials needed:,abbreviations:,head:,hood:,body:,body continued:,arms(make 2):,fingers(make 3):,arms continued:,horns:,belly:,ears:,goggles:,goggles continued:,google strap:,snowboard:,bindings:,scarf:,assembly,helpful tips:
+bubbly:
+materials and tools,abbreviations,head,body,legs,horn 1,horn 2,ears,arm,cheeks,tail,scarf,assembly
+baby:
+materials and tools,abbreviations,head,body,legs,horn 1,horn 2,ears,arm,cheeks,tail,scarf,assembly
+reindeer:
+materials and tools,abbreviations,head,body,legs,horn 1,horn 2,ears,arm,cheeks,tail,scarf,assembly
+yellow:
+materials:,abbreviations,head,body,legs (2 parts),flippers (2 parts),legs (2 parts) (do not stuff),tail
+duck:
+materials:,abbreviations,head,body,legs (2 parts),flippers (2 parts),legs (2 parts) (do not stuff),tail
+teddy:
+head,body,arm (make 2),legs (make 2),ears (make 2),muzzle,tail
+bear:
+head,body,arm (make 2),legs (make 2),ears (make 2),muzzle,tail
+little:
+abbreviations,materials,eye,head & body,horns (x2),arms (x2),teeth (x2),eyes (x2),dots (x6),tongue
+monsters:
+abbreviations,materials,eye,head & body,horns (x2),arms (x2),teeth (x2),eyes (x2),dots (x6),tongue
+grim:
+abbreviations,the head,the body,the arms,the coat,the sleeves,the hood,the scythe
+reaper:
+abbreviations,the head,the body,the arms,the coat,the sleeves,the hood,the scythe
+cute:
+materials,abbreviations,legs,head,arms (make 2),scarf,glaze,berry with a leaf,assembly
+gingerbread:
+materials,abbreviations,legs,head,arms (make 2),scarf,glaze,berry with a leaf,assembly
+mini:
+materials,abbreviations,legs,head,ears (make 2),arms (make 2),muzzle,assembly,hat,jacket
+paddington:
+materials,abbreviations,legs,head,ears (make 2),arms (make 2),muzzle,assembly,hat,jacket
+bear:
+materials,abbreviations,legs,head,ears (make 2),arms (make 2),muzzle,assembly,hat,jacket
+snowman:
+materials,abbreviations,legs,big head,regular head,arms (make 2),nose,hat,scarf,assembly
+frankenstein:
+materials,abbreviations,body,head,arms,ears,hair,coat,sleeves,details
+doll:
+materials,abbreviations,body,head,arms,ears,hair,coat,sleeves,details
+keychain:
+materials,abbreviations,legs,arms,body,eyes,bow
+frog:
+materials,abbreviations,legs,arms,body,eyes,bow
+cute:
+,abbreviations:,legs (x2):,body and head,hair,arms,hat,ribbon skirt,skirt,cat salem
+,body and head:,tail:,ears (x2),front legs (x2),back legs (x2),cauldron,bonfire,pumpkin
+,body of pumpkin,leaf,escoba broom
+,make the broom
+halloween:
+,abbreviations:,legs (x2):,body and head,hair,arms,hat,ribbon skirt,skirt,cat salem
+,body and head:,tail:,ears (x2),front legs (x2),back legs (x2),cauldron,bonfire,pumpkin
+,body of pumpkin,leaf,escoba broom
+,make the broom
+set:
+,abbreviations:,legs (x2):,body and head,hair,arms,hat,ribbon skirt,skirt,cat salem
+,body and head:,tail:,ears (x2),front legs (x2),back legs (x2),cauldron,bonfire,pumpkin
+,body of pumpkin,leaf,escoba broom
+,make the broom
+sheep:
+pdf crochet sheep keychain amigurumi free pattern,materials,abbreviations,head,body,ears,arms,legs
+keychain:
+pdf crochet sheep keychain amigurumi free pattern,materials,abbreviations,head,body,ears,arms,legs
+pumpkin:
+materials,abbreviations,head- body,head tightening,hand 2 details,ruffle for sleeves,legs 2 details,collar,buttons (2 parts),twig
+jack:
+materials,abbreviations,head- body,head tightening,hand 2 details,ruffle for sleeves,legs 2 details,collar,buttons (2 parts),twig
+wonder:
+materials,abbreviations,hands,legs,body-head,tiara,hair,belt
+woman:
+materials,abbreviations,hands,legs,body-head,tiara,hair,belt
+doll:
+materials,abbreviations,hands,legs,body-head,tiara,hair,belt
+dru:
+materials,abbreviations,head,arm (make 2),spike (make 4),muzzle,leg (make 2),tail,body,suit,sleeve (make 2),assembly
+the:
+materials,abbreviations,head,arm (make 2),spike (make 4),muzzle,leg (make 2),tail,body,suit,sleeve (make 2),assembly
+dinosaur:
+materials,abbreviations,head,arm (make 2),spike (make 4),muzzle,leg (make 2),tail,body,suit,sleeve (make 2),assembly
+doctor:
+materials,abbreviations,head,arm (make 2),spike (make 4),muzzle,leg (make 2),tail,body,suit,sleeve (make 2),assembly
+seagull:
+abbreviations,materials,head,bottom mask trim,top mask trim,body,beak,legs x 2,feet x 2,wings x 2,tail,mask tie,cape,assembly
+calypso:
+abbreviations,materials,head,bottom mask trim,top mask trim,body,beak,legs x 2,feet x 2,wings x 2,tail,mask tie,cape,assembly
+little:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,hair,dress,bow tie
+baby:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,hair,dress,bow tie
+girl:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,hair,dress,bow tie
+with:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,hair,dress,bow tie
+red:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,hair,dress,bow tie
+hairpin:
+materials,abbreviation,head,leg * 2,body,arm * 2,ear * 2,hair,dress,bow tie
+halloween:
+materials,abbreviations,pumpkin head,eyes (make 2),wings (make 2),wizard hat,pumpkins,ghost,flat ghosts
+owl:
+materials,abbreviations,pumpkin head,eyes (make 2),wings (make 2),wizard hat,pumpkins,ghost,flat ghosts
+pumpkin:
+materials,abbreviations,pumpkin head,eyes (make 2),wings (make 2),wizard hat,pumpkins,ghost,flat ghosts
+zombie:
+abbreviations,materials,scoop,cone zombie,hair,brain
+ice:
+abbreviations,materials,scoop,cone zombie,hair,brain
+cream:
+abbreviations,materials,scoop,cone zombie,hair,brain
+eeyore:
+abbreviations,head:,body:,handles (2pcs):,legs (2pcs):,ears:,
+donkey:
+abbreviations,head:,body:,handles (2pcs):,legs (2pcs):,ears:,
+little:
+abbreviations,materials,head & handle,ears,arms,nose,collar,
+bear:
+abbreviations,materials,head & handle,ears,arms,nose,collar,
+rattle:
+abbreviations,materials,head & handle,ears,arms,nose,collar,
+little:
+materials,abbreviation,head,legs x 2,body,arm x 2,ear x 2,skirt (under dress)
+girl:
+materials,abbreviation,head,legs x 2,body,arm x 2,ear x 2,skirt (under dress)
+doll:
+materials,abbreviation,head,legs x 2,body,arm x 2,ear x 2,skirt (under dress)
+lulu:
+abbreviations,materials,arms,feet and legs,body,head,dress,hair,hat
+pastel:
+abbreviations,materials,arms,feet and legs,body,head,dress,hair,hat
+doll:
+abbreviations,materials,arms,feet and legs,body,head,dress,hair,hat
+sabrina:
+abbreviations,materials,legs(purple/orange) x 2,body,head (skin color),arms (skin color ) x 2,skirt (brown),hat (brown),hair (nako spagetti- moss green),hair braid (nako spagetti- moss green),collar (cream color),download pdf file
+the:
+abbreviations,materials,legs(purple/orange) x 2,body,head (skin color),arms (skin color ) x 2,skirt (brown),hat (brown),hair (nako spagetti- moss green),hair braid (nako spagetti- moss green),collar (cream color),download pdf file
+witch:
+abbreviations,materials,legs(purple/orange) x 2,body,head (skin color),arms (skin color ) x 2,skirt (brown),hat (brown),hair (nako spagetti- moss green),hair braid (nako spagetti- moss green),collar (cream color),download pdf file
+betty's:
+materials,abbreviations,head and body in peach,arms x2,ears x 2 in peach,nose,headband in pink,soap,loofah,assembly betty pig,bath legs x4 in light blue,bath in light blue,assembly,bubbles
+spa:
+materials,abbreviations,head and body in peach,arms x2,ears x 2 in peach,nose,headband in pink,soap,loofah,assembly betty pig,bath legs x4 in light blue,bath in light blue,assembly,bubbles
+day:
+materials,abbreviations,head and body in peach,arms x2,ears x 2 in peach,nose,headband in pink,soap,loofah,assembly betty pig,bath legs x4 in light blue,bath in light blue,assembly,bubbles
+pig:
+materials,abbreviations,head and body in peach,arms x2,ears x 2 in peach,nose,headband in pink,soap,loofah,assembly betty pig,bath legs x4 in light blue,bath in light blue,assembly,bubbles
+guadalupe:
+materials,abbreviations,we are going to knit an amigurumi doll.,head,body,mantle
+doll:
+materials,abbreviations,we are going to knit an amigurumi doll.,head,body,mantle
+cute:
+materials,abbreviations,head,legs x 2,body,arms x 2,ears x 2,bufanda (tejido)
+winter:
+materials,abbreviations,head,legs x 2,body,arms x 2,ears x 2,bufanda (tejido)
+bunny:
+materials,abbreviations,head,legs x 2,body,arms x 2,ears x 2,bufanda (tejido)
+little:
+materials,abbreviations,body,sheep wool,arms,nose,ears
+sheep:
+materials,abbreviations,body,sheep wool,arms,nose,ears
+ita:
+materials,abbreviations,body,sheep wool,arms,nose,ears
+beaba:
+materials,abbreviations,leg,body,hat,arm,head,ears,heart,finals
+bear:
+materials,abbreviations,leg,body,hat,arm,head,ears,heart,finals
+chubby:
+matterials,abbreviations,legs + body,head,arms,ears,skirt
+cheeks:
+matterials,abbreviations,legs + body,head,arms,ears,skirt
+bunny:
+matterials,abbreviations,legs + body,head,arms,ears,skirt
+squid:
+materials,abbreviations,head: crochet in black color.,arms, 2 pieces: start in black color.,hood : crochet in red color.,legs body: start in black color.,contour for shapes, 3 pieces: crochet in white color,assembly and decoration,how to wash a toy:,handwash:
+game:
+materials,abbreviations,head: crochet in black color.,arms, 2 pieces: start in black color.,hood : crochet in red color.,legs body: start in black color.,contour for shapes, 3 pieces: crochet in white color,assembly and decoration,how to wash a toy:,handwash:
+keychain:
+materials,abbreviations,head: crochet in black color.,arms, 2 pieces: start in black color.,hood : crochet in red color.,legs body: start in black color.,contour for shapes, 3 pieces: crochet in white color,assembly and decoration,how to wash a toy:,handwash:
+halloween:
+materials,abbreviations,head and body,tail,paws x 2,ears,hat,hat details:,details:
+cat:
+materials,abbreviations,head and body,tail,paws x 2,ears,hat,hat details:,details:
+lulu:
+materials,abbrevitions,head (begin with cream yarn, red word: black yarn),eye circle (* 2) (beige yarn),ears *2 (begin with black yarn, red word: pink yarn),leash orange yarn,arm (* 2) begin with pink yarn,leg *2 begin with pink yarn,body cream yarn,short blue yarn,finishing product
+dog:
+materials,abbrevitions,head (begin with cream yarn, red word: black yarn),eye circle (* 2) (beige yarn),ears *2 (begin with black yarn, red word: pink yarn),leash orange yarn,arm (* 2) begin with pink yarn,leg *2 begin with pink yarn,body cream yarn,short blue yarn,finishing product
+harry:
+materials,abbreviations:,wings (2x):,head and body,completion of the head:,completion of the body:,scarf:
+potter:
+materials,abbreviations:,wings (2x):,head and body,completion of the head:,completion of the body:,scarf:
+hedwig:
+materials,abbreviations:,wings (2x):,head and body,completion of the head:,completion of the body:,scarf:
+owl:
+materials,abbreviations:,wings (2x):,head and body,completion of the head:,completion of the body:,scarf:
+cute:
+abbreviations,head and body,arms,ears,horns,tail,nose
+bull:
+abbreviations,head and body,arms,ears,horns,tail,nose
+zombie:
+materials,abbreviations,head,body,arms,ears,pants
+bunny:
+materials,abbreviations,head,body,arms,ears,pants
+halloween:
+materials,abbreviations,head,ears,muzzle,legs & body,arms,collar,pumpkin,stem
+bear:
+materials,abbreviations,head,ears,muzzle,legs & body,arms,collar,pumpkin,stem
+among:
+materials,abbreviations,head,body,bone top,assembly
+us:
+materials,abbreviations,head,body,bone top,assembly
+dead:
+materials,abbreviations,head,body,bone top,assembly
+body:
+materials,abbreviations,head,body,bone top,assembly
+frida:
+materials,abbreviations,legs (x2),body and head,skirt,blouse,hair bun,fringe (x 2),roete bun,handkerchief,arms (x 2),flowers (x 4),ears (x 2),assembly and details
+kahlo:
+materials,abbreviations,legs (x2),body and head,skirt,blouse,hair bun,fringe (x 2),roete bun,handkerchief,arms (x 2),flowers (x 4),ears (x 2),assembly and details
+doll:
+materials,abbreviations,legs (x2),body and head,skirt,blouse,hair bun,fringe (x 2),roete bun,handkerchief,arms (x 2),flowers (x 4),ears (x 2),assembly and details
+easy:
+materials:,abbreviations,head (starting with the bodily),body (white),legs (4 parts),ears (2 parts flesh and 2 parts white),tail
+little:
+materials:,abbreviations,head (starting with the bodily),body (white),legs (4 parts),ears (2 parts flesh and 2 parts white),tail
+sheep:
+materials:,abbreviations,head (starting with the bodily),body (white),legs (4 parts),ears (2 parts flesh and 2 parts white),tail
+clovis:
+materials,abbreviations,head & body,beak,legs (x 2),wings (x 2),feet (x 2),assembly
+the:
+materials,abbreviations,head & body,beak,legs (x 2),wings (x 2),feet (x 2),assembly
+duck:
+materials,abbreviations,head & body,beak,legs (x 2),wings (x 2),feet (x 2),assembly
+sirius:
+materials,abbreviations ,head,body,ears (x2),arms (x 2),belly,acor,legs (x2),tail
+the:
+materials,abbreviations ,head,body,ears (x2),arms (x 2),belly,acor,legs (x2),tail
+squirrel:
+materials,abbreviations ,head,body,ears (x2),arms (x 2),belly,acor,legs (x2),tail
+lilo:
+materials:,abbreviations,body:,legs (2pcs):,feet (2pcs):,head:,ears (2pcs pink and 2pcs blue):,tail:
+and:
+materials:,abbreviations,body:,legs (2pcs):,feet (2pcs):,head:,ears (2pcs pink and 2pcs blue):,tail:
+stitch:
+materials:,abbreviations,body:,legs (2pcs):,feet (2pcs):,head:,ears (2pcs pink and 2pcs blue):,tail:
+halloween:
+abbreviations,legs:,body:,head:,hands:,skirt:,hat:,wig:,assembly:
+witch:
+abbreviations,legs:,body:,head:,hands:,skirt:,hat:,wig:,assembly:
+baby:
+abbreviations,materials,start from the bottom,make the horn now,continue with head,arms (make 2),bow,hat
+rhino:
+abbreviations,materials,start from the bottom,make the horn now,continue with head,arms (make 2),bow,hat
+squid:
+materials:,abbreviation:,legs: (make 2),body:,skirt:,head:,arms:(make 2),hair:,dress traps:(make 2)
+game:
+materials:,abbreviation:,legs: (make 2),body:,skirt:,head:,arms:(make 2),hair:,dress traps:(make 2)
+robot:
+materials:,abbreviation:,legs: (make 2),body:,skirt:,head:,arms:(make 2),hair:,dress traps:(make 2)
+doll:
+materials:,abbreviation:,legs: (make 2),body:,skirt:,head:,arms:(make 2),hair:,dress traps:(make 2)
+pumpkin:
+materials,abbreviations,head and body,feelers,pumpkin,stem,assembly
+snail:
+materials,abbreviations,head and body,feelers,pumpkin,stem,assembly
+witch:
+materials,abbrevations,arms,legs,body,head and hair,hair,dress,hat
+halloween:
+materials,abbrevations,arms,legs,body,head and hair,hair,dress,hat
+slouchy:
+abbreviations (standard american crochet terms),materials,size children & women
+hat:
+abbreviations (standard american crochet terms),materials,size children & women
+for:
+abbreviations (standard american crochet terms),materials,size children & women
+women:
+abbreviations (standard american crochet terms),materials,size children & women
+and:
+abbreviations (standard american crochet terms),materials,size children & women
+kids:
+abbreviations (standard american crochet terms),materials,size children & women
+billie:
+abbreviations,materials,foot / leg,body,arm ( x 2),head,hair,cardigan,slevees,assembly
+eilish:
+abbreviations,materials,foot / leg,body,arm ( x 2),head,hair,cardigan,slevees,assembly
+doll:
+abbreviations,materials,foot / leg,body,arm ( x 2),head,hair,cardigan,slevees,assembly
+malala:
+abbreviations,materials,foot and leg,body,head,hair,dress,sleeves,arm (x2),dress flowers (x5),assembly
+yousafzai:
+abbreviations,materials,foot and leg,body,head,hair,dress,sleeves,arm (x2),dress flowers (x5),assembly
+doll:
+abbreviations,materials,foot and leg,body,head,hair,dress,sleeves,arm (x2),dress flowers (x5),assembly
+spiderman:
+materials,abbreviations,legs,body and head,hands 2 pcs,assembly
+cat:
+abbreviations,head,ears,legs,body,skirt,tail,arms,cheeks,bandage
+girl:
+abbreviations,head,ears,legs,body,skirt,tail,arms,cheeks,bandage
+easy:
+materials:,abbreviations:,head (light brown yarn):,nose (light brown yarn):,ears x 2 (light brown yarn),legs x 2 (light brown yarn):,body (light brown yarn):,arms x 2 (light brown yarn):,clothes (yellow yarn):,top:,hat (yellow yarn):,assemble:,download pdf fille
+louie:
+materials:,abbreviations:,head (light brown yarn):,nose (light brown yarn):,ears x 2 (light brown yarn),legs x 2 (light brown yarn):,body (light brown yarn):,arms x 2 (light brown yarn):,clothes (yellow yarn):,top:,hat (yellow yarn):,assemble:,download pdf fille
+the:
+materials:,abbreviations:,head (light brown yarn):,nose (light brown yarn):,ears x 2 (light brown yarn),legs x 2 (light brown yarn):,body (light brown yarn):,arms x 2 (light brown yarn):,clothes (yellow yarn):,top:,hat (yellow yarn):,assemble:,download pdf fille
+bear:
+materials:,abbreviations:,head (light brown yarn):,nose (light brown yarn):,ears x 2 (light brown yarn),legs x 2 (light brown yarn):,body (light brown yarn):,arms x 2 (light brown yarn):,clothes (yellow yarn):,top:,hat (yellow yarn):,assemble:,download pdf fille
+cute:
+abbreviations,head,eyes,legs,body,arms,jumpsuit hanger,bow
+frog:
+abbreviations,head,eyes,legs,body,arms,jumpsuit hanger,bow
+oggy:
+materials,abbreviations,head,body,nose,sclera,cornea,irish,pupil,whiskers,tummy,hands,fingers,ears,tail,legs,feet (start crochet the toes),assembly
+and:
+materials,abbreviations,head,body,nose,sclera,cornea,irish,pupil,whiskers,tummy,hands,fingers,ears,tail,legs,feet (start crochet the toes),assembly
+the:
+materials,abbreviations,head,body,nose,sclera,cornea,irish,pupil,whiskers,tummy,hands,fingers,ears,tail,legs,feet (start crochet the toes),assembly
+cockroaches:
+materials,abbreviations,head,body,nose,sclera,cornea,irish,pupil,whiskers,tummy,hands,fingers,ears,tail,legs,feet (start crochet the toes),assembly
+bunny:
+necessary materials:,abbreviations,body,head,ears (2 parts):,upper legs (2 parts):,lower feet (2 parts):,spout:,design and assembly.
+pajamas:
+necessary materials:,abbreviations,body,head,ears (2 parts):,upper legs (2 parts):,lower feet (2 parts):,spout:,design and assembly.
+brown:
+necessary materials,abbreviations,ears (2 pcs):,muzzle:,head:,arms (2 pcs):,legs (2 pcs):,body,bow:
+teddy:
+necessary materials,abbreviations,ears (2 pcs):,muzzle:,head:,arms (2 pcs):,legs (2 pcs):,body,bow:
+bear:
+necessary materials,abbreviations,ears (2 pcs):,muzzle:,head:,arms (2 pcs):,legs (2 pcs):,body,bow:
+squid:
+materials:,abbreviation:,head:,arms: make 2,legs: make 2,body,hood:
+game:
+materials:,abbreviation:,head:,arms: make 2,legs: make 2,body,hood:
+plush:
+the required materials:,abbreviations (us):,paw (make 2):,bunny's tail:,bunny's ear (make 2):,leg (make 2):,body:,head:,assembly
+velvet:
+the required materials:,abbreviations (us):,paw (make 2):,bunny's tail:,bunny's ear (make 2):,leg (make 2):,body:,head:,assembly
+bunny:
+the required materials:,abbreviations (us):,paw (make 2):,bunny's tail:,bunny's ear (make 2):,leg (make 2):,body:,head:,assembly
+plush:
+the required materials:,abbreviations (us):,paw (make 2):,kitten's tail:,kitten's ear (make 2):,leg (make 2):,body:,head:,assembly:
+cat:
+the required materials:,abbreviations (us):,paw (make 2):,kitten's tail:,kitten's ear (make 2):,leg (make 2):,body:,head:,assembly:
+velvet:
+the required materials:,abbreviations (us):,paw (make 2):,kitten's tail:,kitten's ear (make 2):,leg (make 2):,body:,head:,assembly:
+kouki:
+materials,abbreviations,head:,body:,arms:,legs:,ears:,tail:,download pdf file
+cat:
+materials,abbreviations,head:,body:,arms:,legs:,ears:,tail:,download pdf file
+teddy:
+materials,abbreviations,head:,muzzle:,ears (2 parts):,legs + body:,arms (2 pcs):,tail:,speck on the belly,snood,download pdf file
+bear:
+materials,abbreviations,head:,muzzle:,ears (2 parts):,legs + body:,arms (2 pcs):,tail:,speck on the belly,snood,download pdf file
+with:
+materials,abbreviations,head:,muzzle:,ears (2 parts):,legs + body:,arms (2 pcs):,tail:,speck on the belly,snood,download pdf file
+snood:
+materials,abbreviations,head:,muzzle:,ears (2 parts):,legs + body:,arms (2 pcs):,tail:,speck on the belly,snood,download pdf file
+plush:
+materials:,abbreviations,legs (2 pcs):,body:,head:,ears (2 pcs):,arms (2 pcs):,tail:
+teddy:
+materials:,abbreviations,legs (2 pcs):,body:,head:,ears (2 pcs):,arms (2 pcs):,tail:
+bear:
+materials:,abbreviations,legs (2 pcs):,body:,head:,ears (2 pcs):,arms (2 pcs):,tail:
+reginaldo:
+materials,abbreviations,beak,feet,belly,wings,body,hat
+penguin:
+materials,abbreviations,beak,feet,belly,wings,body,hat
+little:
+materials,abbreviations,head,ears,hands,legs,hood
+dachshund:
+materials,abbreviations,head,ears,hands,legs,hood
+dog:
+materials,abbreviations,head,ears,hands,legs,hood
+raya:
+materials,abbreviations,legs x 2 (red 4 brown yarn),body (green, brown, tan and mustard yarn),head (tan yarn),arms x 2 (tan and brown yarn),cape (red yarn),ears x 2 (tan yarn),hair (black yarn),hat (mustard yarn),assembly
+doll:
+materials,abbreviations,legs x 2 (red 4 brown yarn),body (green, brown, tan and mustard yarn),head (tan yarn),arms x 2 (tan and brown yarn),cape (red yarn),ears x 2 (tan yarn),hair (black yarn),hat (mustard yarn),assembly
+easy:
+materials,observation,potted plant,cactus plant (second piece),leaves (2)
+little:
+materials,observation,potted plant,cactus plant (second piece),leaves (2)
+cactus:
+materials,observation,potted plant,cactus plant (second piece),leaves (2)
+little:
+materials,abbreviations,head,ears (make 2),muzzle,body,paws (make 4),tail,assembly
+cat:
+materials,abbreviations,head,ears (make 2),muzzle,body,paws (make 4),tail,assembly
+little:
+materials,abbreviations,body,legs x 2,body (continue),beak,pies x 2,wings x 2
+seagull:
+materials,abbreviations,body,legs x 2,body (continue),beak,pies x 2,wings x 2
+keychain:
+materials,abbreviations,body,legs x 2,body (continue),beak,pies x 2,wings x 2
+easy:
+,materials:,abbreviations:,ears x2 (orange):,head (orange):
+fox:
+,materials:,abbreviations:,ears x2 (orange):,head (orange):
+keychain:
+,materials:,abbreviations:,ears x2 (orange):,head (orange):
+cute:
+,materials,abbreviations,head:,muzzle:,ears (2pcs):,arms:,tail:,legs + body:
+little:
+,materials,abbreviations,head:,muzzle:,ears (2pcs):,arms:,tail:,legs + body:
+fox:
+,materials,abbreviations,head:,muzzle:,ears (2pcs):,arms:,tail:,legs + body:
+the:
+pattern instructions,abbreviations,instructions: 3- treble- bobble stitc,materials and tools,other materials and tools,head,body,legs,arms,headband,hair,skirt
+daisy:
+pattern instructions,abbreviations,instructions: 3- treble- bobble stitc,materials and tools,other materials and tools,head,body,legs,arms,headband,hair,skirt
+flower:
+pattern instructions,abbreviations,instructions: 3- treble- bobble stitc,materials and tools,other materials and tools,head,body,legs,arms,headband,hair,skirt
+elf:
+pattern instructions,abbreviations,instructions: 3- treble- bobble stitc,materials and tools,other materials and tools,head,body,legs,arms,headband,hair,skirt
+lexi:
+materials:,abbreviations,head,ears,body,legs,tail,assembly
+elephant:
+materials:,abbreviations,head,ears,body,legs,tail,assembly
+fiona:
+materials,abbreviations,head,muzzle,nose,ears x2,arms x2,legs and body,tail,assembly
+the:
+materials,abbreviations,head,muzzle,nose,ears x2,arms x2,legs and body,tail,assembly
+fox:
+materials,abbreviations,head,muzzle,nose,ears x2,arms x2,legs and body,tail,assembly
+among:
+,materials,abbreviations,we start crochet from the legs.,glass,backpack,leaf,leaves 2times
+us:
+,materials,abbreviations,we start crochet from the legs.,glass,backpack,leaf,leaves 2times
+cactus:
+materials,abbreviations,options,cactus,pot,flower,cactus assembly
+keychain:
+materials,abbreviations,options,cactus,pot,flower,cactus assembly
+big:
+materials needed:,abbreviations:,notes:,head:,body:,tail:,ears(make 2):,arms(make 2):,legs(make 2):,horns(make 2):,assembly
+giraffe:
+materials needed:,abbreviations:,notes:,head:,body:,tail:,ears(make 2):,arms(make 2):,legs(make 2):,horns(make 2):,assembly
+teeny:
+teeny weeny bunny amigurumi crochet pattern,abbreviations,materials and tools:,head, body and legs (one detail),arms: (2 pcs.),ears: (2 pcs.),tail:,bonnet:
+weeny:
+teeny weeny bunny amigurumi crochet pattern,abbreviations,materials and tools:,head, body and legs (one detail),arms: (2 pcs.),ears: (2 pcs.),tail:,bonnet:
+bunny:
+teeny weeny bunny amigurumi crochet pattern,abbreviations,materials and tools:,head, body and legs (one detail),arms: (2 pcs.),ears: (2 pcs.),tail:,bonnet:
+baby:
+pattern details,materials needed:,abbreviations:,notes:,nose:,crochet nose:,head/body:,legs(make 2):,arms(make 2):,assembly,hair:,arms:,legs:,heart:,helpful tips:
+grinch:
+pattern details,materials needed:,abbreviations:,notes:,nose:,crochet nose:,head/body:,legs(make 2):,arms(make 2):,assembly,hair:,arms:,legs:,heart:,helpful tips:
+farmer:
+pdf farmer crochet bunny pdf amigurumi free pattern,materials,abbreviations,legs,lapel jeans,body,collar,hands,head,muzzle,ears,front jumpsuit,jumpsuit webbing,assembly
+bunny:
+pdf farmer crochet bunny pdf amigurumi free pattern,materials,abbreviations,legs,lapel jeans,body,collar,hands,head,muzzle,ears,front jumpsuit,jumpsuit webbing,assembly
+little:
+terms (us):,materials:,head (make i in white yarn):,snout (make i using pink yarn):,ears (make 2, one in grey, one in white):,body (make i using white yarn):,front legs (make 2):,back legs (make 2):,spouts (make 2 in grey):,tail (make 1):,assembly
+cow:
+terms (us):,materials:,head (make i in white yarn):,snout (make i using pink yarn):,ears (make 2, one in grey, one in white):,body (make i using white yarn):,front legs (make 2):,back legs (make 2):,spouts (make 2 in grey):,tail (make 1):,assembly
+lilo:
+necessary materials,abbreviations,head,body,hands (2pcs),legs (2 pcs),bow,assembly
+and:
+necessary materials,abbreviations,head,body,hands (2pcs),legs (2 pcs),bow,assembly
+stitch:
+necessary materials,abbreviations,head,body,hands (2pcs),legs (2 pcs),bow,assembly
+keychain:
+necessary materials,abbreviations,head,body,hands (2pcs),legs (2 pcs),bow,assembly
+donkey:
+necessary materials,abbreviations,head,muzzle,ears,legs,hands
+dr.:
+materials,abbreviations,hands,feet,body,head,hair,coat,sleeves,glasses,assembly
+rose:
+materials,abbreviations,hands,feet,body,head,hair,coat,sleeves,glasses,assembly
+doll:
+materials,abbreviations,hands,feet,body,head,hair,coat,sleeves,glasses,assembly
+plush:
+necessary materials,abbreviations,body,head,arms,legs,ears
+bunny:
+necessary materials,abbreviations,body,head,arms,legs,ears
+mila:
+necessary materials,abbreviations,body,head,arms,legs,ears
+oatley:
+materials:,abbreviations,cheeks (make 2 in orange yarn),legs (make 2 in orange yarn),body (outside),face
+ghost:
+materials:,abbreviations,cheeks (make 2 in orange yarn),legs (make 2 in orange yarn),body (outside),face
+cute:
+materials,abbreviation,head,leg x 2,body,arm x 2,ear x 2,scarf (knitting)
+little:
+materials,abbreviation,head,leg x 2,body,arm x 2,ear x 2,scarf (knitting)
+bear:
+materials,abbreviation,head,leg x 2,body,arm x 2,ear x 2,scarf (knitting)
+cute:
+tools and materials:,abbreviations (us terminology):,head:,purple,ears:,tail:,arms:,legs:,florets:
+sheep:
+tools and materials:,abbreviations (us terminology):,head:,purple,ears:,tail:,arms:,legs:,florets:
+diana:
+abbreviations,materials,arms,feet / legs,body,head,dress,hair,apron,cap,hat
+doll:
+abbreviations,materials,arms,feet / legs,body,head,dress,hair,apron,cap,hat
+small:
+materials and tools,abbreviation,arms (make two),legs (make two),body part 1 (stuff firmly as you go),body part 2 (stuff firmly as you go),head (stuff firmly as you go),ears (make two),scarf (make one),assembling
+bear:
+materials and tools,abbreviation,arms (make two),legs (make two),body part 1 (stuff firmly as you go),body part 2 (stuff firmly as you go),head (stuff firmly as you go),ears (make two),scarf (make one),assembling
+cat:
+materials needed:,abbreviations:,head (cotton):,head (velvet fine):,ears x 2,brazos x 2,tail,hat,pumpkin cotton,tendril:,chenille pumpkin (optional):,completion of the cot on head:,completion of the velvet fine head:,completion of salem:
+in:
+materials needed:,abbreviations:,head (cotton):,head (velvet fine):,ears x 2,brazos x 2,tail,hat,pumpkin cotton,tendril:,chenille pumpkin (optional):,completion of the cot on head:,completion of the velvet fine head:,completion of salem:
+the:
+materials needed:,abbreviations:,head (cotton):,head (velvet fine):,ears x 2,brazos x 2,tail,hat,pumpkin cotton,tendril:,chenille pumpkin (optional):,completion of the cot on head:,completion of the velvet fine head:,completion of salem:
+pumpkin:
+materials needed:,abbreviations:,head (cotton):,head (velvet fine):,ears x 2,brazos x 2,tail,hat,pumpkin cotton,tendril:,chenille pumpkin (optional):,completion of the cot on head:,completion of the velvet fine head:,completion of salem:
+witch:
+materials,abbreviations,head and body,legs,arms,hair,witch hat,skirt,ruffles 1,ruffles 2
+the:
+materials,abbreviations,head and body,legs,arms,hair,witch hat,skirt,ruffles 1,ruffles 2
+luna:
+materials,abbreviations,head and body,legs,arms,hair,witch hat,skirt,ruffles 1,ruffles 2
+lulu:
+,abbreviations,materials:,arms,legs,body,head,dress,hair,cap
+pie:
+,abbreviations,materials:,arms,legs,body,head,dress,hair,cap
+doll:
+,abbreviations,materials:,arms,legs,body,head,dress,hair,cap
+deer:
+,materials,abbreviations,arms,legs,snout,body,head,dress,ears,horns,daisy flower
+ballerina:
+,materials,abbreviations,arms,legs,snout,body,head,dress,ears,horns,daisy flower
+winnie:
+materials,abbreviations,head and body,legs,arms (make 2),ears (make 2),muzzle,tail,honey jug,melted honey
+the:
+materials,abbreviations,head and body,legs,arms (make 2),ears (make 2),muzzle,tail,honey jug,melted honey
+pooh:
+materials,abbreviations,head and body,legs,arms (make 2),ears (make 2),muzzle,tail,honey jug,melted honey
+oogie:
+materials needed:,abbreviations:,notes:,head and body:,head and body continued:,arms(make 2):,legs(make 2):,assembly,helpful tips:
+boogie:
+materials needed:,abbreviations:,notes:,head and body:,head and body continued:,arms(make 2):,legs(make 2):,assembly,helpful tips:
+rosa:
+materials,abbreviations,head pink,leg => body pink,ear x2 pink,arm x2 pink
+the:
+materials,abbreviations,head pink,leg => body pink,ear x2 pink,arm x2 pink
+bunny:
+materials,abbreviations,head pink,leg => body pink,ear x2 pink,arm x2 pink
+grim:
+materials needed,abbreviations,notes,head and body,hood,arms(make 2),sleeves,staff,scythe,bottom of body,assembly
+reaper:
+materials needed,abbreviations,notes,head and body,hood,arms(make 2),sleeves,staff,scythe,bottom of body,assembly
+hugo:
+notes:,tools and materials,abbreviations,head and body,ears inner part (make 2),ears outer part (make 2),arms (make 2),legs (make 2),tail,cape,assembly (see pictures)
+the:
+notes:,tools and materials,abbreviations,head and body,ears inner part (make 2),ears outer part (make 2),arms (make 2),legs (make 2),tail,cape,assembly (see pictures)
+hamster:
+notes:,tools and materials,abbreviations,head and body,ears inner part (make 2),ears outer part (make 2),arms (make 2),legs (make 2),tail,cape,assembly (see pictures)
+hero:
+notes:,tools and materials,abbreviations,head and body,ears inner part (make 2),ears outer part (make 2),arms (make 2),legs (make 2),tail,cape,assembly (see pictures)
+keychain:
+abbreviations,head,ears 2pcs.,muzzle:,arms 2pcs.,body,legs 2pcs.
+bear:
+abbreviations,head,ears 2pcs.,muzzle:,arms 2pcs.,body,legs 2pcs.
+cute:
+abbreviations,hands,wings,ears,head,legs-body in one piece
+bat:
+abbreviations,hands,wings,ears,head,legs-body in one piece
+little:
+materials,abbreviation,head,legs x 2,body,arm x 2,ear x 2,collar
+bear:
+materials,abbreviation,head,legs x 2,body,arm x 2,ear x 2,collar
+christmas:
+materials,abbreviations,head and body,bottom of jacket,collar,belt,ears (x2),arms (make 2),legs (make 2),cap
+elf:
+materials,abbreviations,head and body,bottom of jacket,collar,belt,ears (x2),arms (make 2),legs (make 2),cap
+gingerbread:
+abbreviations,legs + body,head,arms,hat,glaze,buttons 2 pcs
+man:
+abbreviations,legs + body,head,arms,hat,glaze,buttons 2 pcs
+funny:
+materials needed:,abbreviations:,body.,bunny,assembly and decoration,bear,cow
+icecream:
+materials needed:,abbreviations:,body.,bunny,assembly and decoration,bear,cow
+spongebob:
+abbreviations,legs,body,hands,eyes
+patrick:
+abbreviations,legs,body,hands,eyes
+dog:
+materials,abbreviations,head,body,arm (make 2),face patch,nose,mouth,ears,legs,belly patch,flower
+keychain:
+materials,abbreviations,head,body,arm (make 2),face patch,nose,mouth,ears,legs,belly patch,flower
+girl:
+abbreviations,materials,*head*,*ears*,* handles, 2pcs *,* legs + torso *,*bow*,*the dress*
+baby:
+abbreviations,materials,*head*,*ears*,* handles, 2pcs *,* legs + torso *,*bow*,*the dress*
+yoda:
+abbreviations,materials,*head*,*ears*,* handles, 2pcs *,* legs + torso *,*bow*,*the dress*
+roger:
+materials,abbreviations (us terminology),tips,head,body,eggshell,feet x2,footprints x2,ears x2,inner parts of the ears x2,tail,arms x2,teeth,chocolate egg,assembling,embroidering,eyes embroidering
+the:
+materials,abbreviations (us terminology),tips,head,body,eggshell,feet x2,footprints x2,ears x2,inner parts of the ears x2,tail,arms x2,teeth,chocolate egg,assembling,embroidering,eyes embroidering
+easter:
+materials,abbreviations (us terminology),tips,head,body,eggshell,feet x2,footprints x2,ears x2,inner parts of the ears x2,tail,arms x2,teeth,chocolate egg,assembling,embroidering,eyes embroidering
+bunny:
+materials,abbreviations (us terminology),tips,head,body,eggshell,feet x2,footprints x2,ears x2,inner parts of the ears x2,tail,arms x2,teeth,chocolate egg,assembling,embroidering,eyes embroidering
+plush:
+materials,abbreviations,legs,arms,tail,body and head,head,ears,muzzle
+lion:
+materials,abbreviations,legs,arms,tail,body and head,head,ears,muzzle
+tiger:
+abbreviations,legs,hands,head,ears,muzzle,body
+toffee:
+abbreviations,legs,hands,head,ears,muzzle,body
+sophie:
+material,abbreviations,head + body,headover,skirt,ears (2x),leg (2x),arm (2x),rose (5 pos),leaf (43 pos)
+the:
+material,abbreviations,head + body,headover,skirt,ears (2x),leg (2x),arm (2x),rose (5 pos),leaf (43 pos)
+sheep:
+material,abbreviations,head + body,headover,skirt,ears (2x),leg (2x),arm (2x),rose (5 pos),leaf (43 pos)
+little:
+materials and tools:,abbreviations,arms,legs,boddy,head,muzzle,ears,tail
+tiger:
+materials and tools:,abbreviations,arms,legs,boddy,head,muzzle,ears,tail
+spongebob:
+abbreviations,body,on the sides,top,hands,legs,knit legs,eyes,nose
+squarepants:
+abbreviations,body,on the sides,top,hands,legs,knit legs,eyes,nose
+giraffe:
+abbreviations,head:,ears:,horns:,ring binding:,collar:,assembling:
+rattle:
+abbreviations,head:,ears:,horns:,ring binding:,collar:,assembling:
+reindeer:
+materials:,abbreviations,girl pattern,leg (make 2),body,skirt,head,ears (make 2),muzzle,nose,arms (make 2),horn (make 2),boy pattern,legs (make 2)
+boy:
+materials:,abbreviations,girl pattern,leg (make 2),body,skirt,head,ears (make 2),muzzle,nose,arms (make 2),horn (make 2),boy pattern,legs (make 2)
+and:
+materials:,abbreviations,girl pattern,leg (make 2),body,skirt,head,ears (make 2),muzzle,nose,arms (make 2),horn (make 2),boy pattern,legs (make 2)
+girl:
+materials:,abbreviations,girl pattern,leg (make 2),body,skirt,head,ears (make 2),muzzle,nose,arms (make 2),horn (make 2),boy pattern,legs (make 2)
+little:
+materials,abbreviation,head,leg (make 2),body,arm (make 2),ear (make 2),dress,bow tie
+doll:
+materials,abbreviation,head,leg (make 2),body,arm (make 2),ear (make 2),dress,bow tie
+piglet:
+materials,abbreviations,body,ears x 2,hands x 2,foots x 2,eyes and nose,gauze mask
+keychain:
+materials,abbreviations,body,ears x 2,hands x 2,foots x 2,eyes and nose,gauze mask
+kitty:
+materials,abbreviations,head,ear (make 2),body,arm (make 2),bow bra,horn,tail (make 2)
+unicorn:
+materials,abbreviations,head,ear (make 2),body,arm (make 2),bow bra,horn,tail (make 2)
+mermaid:
+materials,abbreviations,head,ear (make 2),body,arm (make 2),bow bra,horn,tail (make 2)
+watering:
+tools & supplies,abbreviations,vessel:,spout & rose:,flowers:,leaf:,handle:,2 handle:,cheeks:
+can:
+tools & supplies,abbreviations,vessel:,spout & rose:,flowers:,leaf:,handle:,2 handle:,cheeks:
+sirup:
+abbreviations,materials and tools:,body-head,nose:,ears (2 pcs),legs:,tail:,assembly and decoration:
+the:
+abbreviations,materials and tools:,body-head,nose:,ears (2 pcs),legs:,tail:,assembly and decoration:
+puppy:
+abbreviations,materials and tools:,body-head,nose:,ears (2 pcs),legs:,tail:,assembly and decoration:
+doll:
+abbreviations,materials,arms,legs,body,head,dress,hair,apron,hat
+anne:
+abbreviations,materials,arms,legs,body,head,dress,hair,apron,hat
+shirley:
+abbreviations,materials,arms,legs,body,head,dress,hair,apron,hat
+polar:
+size,materials & tools,abbreviations,head (in white yarn),body & legs (in white yarn),ear (in white yarn); make two,blush (in soft pink yarn); make two,hand (in white yarn); make two,ribbon (in soft blue yarn or any color you like),finishing
+bear:
+size,materials & tools,abbreviations,head (in white yarn),body & legs (in white yarn),ear (in white yarn); make two,blush (in soft pink yarn); make two,hand (in white yarn); make two,ribbon (in soft blue yarn or any color you like),finishing
+tiger:
+materials and tools,abbreviations used,finished size and construction notes,paws (make 4),tail,head and body (worked in one piece from the top down),ears,overalls,muzzle,assembly and finishing,reflecting button
+keychain:
+materials and tools,abbreviations used,finished size and construction notes,paws (make 4),tail,head and body (worked in one piece from the top down),ears,overalls,muzzle,assembly and finishing,reflecting button
+ballerina:
+size:,skill level needed:,materials needed:,abbreviations:,notes:,head:,arms:,body:,skirt:,ears:,horns:,bow:,legs:,shoes:,assembly
+giraffe:
+size:,skill level needed:,materials needed:,abbreviations:,notes:,head:,arms:,body:,skirt:,ears:,horns:,bow:,legs:,shoes:,assembly
+little:
+materials and tools,abbreviations,face,spots around the eyes (make 2),arms (make 2),legs (make 2),body,assembling
+sloth:
+materials and tools,abbreviations,face,spots around the eyes (make 2),arms (make 2),legs (make 2),body,assembling
+the:
+materials and tools, you will need:,abbreviations (us terms),head-body (one detail, worked from bottom to top):,eyes (make 2),wings (make 2):,tail:,feet (make 2):,ears:
+owl:
+materials and tools, you will need:,abbreviations (us terms),head-body (one detail, worked from bottom to top):,eyes (make 2),wings (make 2):,tail:,feet (make 2):,ears:
+rattle:
+materials and tools, you will need:,abbreviations (us terms),head-body (one detail, worked from bottom to top):,eyes (make 2),wings (make 2):,tail:,feet (make 2):,ears:
+mouse:
+materials:,abbreviations,head and body,arms x 2,legs x 2,ears x 2,tail,spots,assembly and finishing touches
+in:
+materials:,abbreviations,head and body,arms x 2,legs x 2,ears x 2,tail,spots,assembly and finishing touches
+cheese:
+materials:,abbreviations,head and body,arms x 2,legs x 2,ears x 2,tail,spots,assembly and finishing touches
+pants:
+materials:,abbreviations,head and body,arms x 2,legs x 2,ears x 2,tail,spots,assembly and finishing touches
+rapunzel:
+materials and tools:,terms:,arms (2 pieces),legs (2 pieces),body (stuff as you go),head,dress,top skirt,collar,sleeves,hair,eyes (2 pcs)
+doll:
+materials and tools:,terms:,arms (2 pieces),legs (2 pieces),body (stuff as you go),head,dress,top skirt,collar,sleeves,hair,eyes (2 pcs)
+little:
+materials,abbreviation,head,body,arm*2,ear*2,leg*2,nose,tail
+fox:
+materials,abbreviation,head,body,arm*2,ear*2,leg*2,nose,tail
+sitting:
+tips,material,abbreviation,dimension,special stitches & technique,head and body,overall's bib,pocket,arms and gloves (make 2),eye and goggle,legs (make 2),assembling (see picture),additional details
+minion:
+tips,material,abbreviation,dimension,special stitches & technique,head and body,overall's bib,pocket,arms and gloves (make 2),eye and goggle,legs (make 2),assembling (see picture),additional details
+little:
+materials,you will also need,note,abbreviations,body,arms,hair,bandage,lantern
+mummy:
+materials,you will also need,note,abbreviations,body,arms,hair,bandage,lantern
+molang:
+materials,abbreviation,molang,body,ear*2,leg*4,piupiu,wing*2
+and:
+materials,abbreviation,molang,body,ear*2,leg*4,piupiu,wing*2
+piupiu:
+materials,abbreviation,molang,body,ear*2,leg*4,piupiu,wing*2
+bunny:
+materials,abbreviation,molang,body,ear*2,leg*4,piupiu,wing*2
+and:
+materials,abbreviation,molang,body,ear*2,leg*4,piupiu,wing*2
+duck:
+materials,abbreviation,molang,body,ear*2,leg*4,piupiu,wing*2
+baby:
+materials,abbreviations,body,side fins (make 2),tail fins (make 2),upper fin,assembly
+shark:
+materials,abbreviations,body,side fins (make 2),tail fins (make 2),upper fin,assembly
+fofo:
+abbreviations (us),you will need,size of the toy and notes,main detail (head, body, legs),legs,muzzle,arms (2 pcs),ears (2 pcs),horns ( 2 pcs),tail,bow-tie,straps (2 pcs),assembly and decoration
+the:
+abbreviations (us),you will need,size of the toy and notes,main detail (head, body, legs),legs,muzzle,arms (2 pcs),ears (2 pcs),horns ( 2 pcs),tail,bow-tie,straps (2 pcs),assembly and decoration
+bull:
+abbreviations (us),you will need,size of the toy and notes,main detail (head, body, legs),legs,muzzle,arms (2 pcs),ears (2 pcs),horns ( 2 pcs),tail,bow-tie,straps (2 pcs),assembly and decoration
+little:
+abbreviations,you will need:,head, body (one detail),legs: (2 pcs),arms: (2 pcs),nose:,ears:,pants:,tail:,bow-tie:
+mouse:
+abbreviations,you will need:,head, body (one detail),legs: (2 pcs),arms: (2 pcs),nose:,ears:,pants:,tail:,bow-tie:
+li:
+abbreviations,you will need:,head, body (one detail),legs: (2 pcs),arms: (2 pcs),nose:,ears:,pants:,tail:,bow-tie:
+plush:
+materials,abbreviations,head,ears (make 2),body,arms/ tail (make 3),legs (make 2),muzzle,frog hat cap piece,frog hat eyes (make 2),assembly
+dog:
+materials,abbreviations,head,ears (make 2),body,arms/ tail (make 3),legs (make 2),muzzle,frog hat cap piece,frog hat eyes (make 2),assembly
+with:
+materials,abbreviations,head,ears (make 2),body,arms/ tail (make 3),legs (make 2),muzzle,frog hat cap piece,frog hat eyes (make 2),assembly
+frog:
+materials,abbreviations,head,ears (make 2),body,arms/ tail (make 3),legs (make 2),muzzle,frog hat cap piece,frog hat eyes (make 2),assembly
+hat:
+materials,abbreviations,head,ears (make 2),body,arms/ tail (make 3),legs (make 2),muzzle,frog hat cap piece,frog hat eyes (make 2),assembly
+little:
+materials and tools,abbreviations,dimension,head to abdomen,antennas,arms,legs
+ant:
+materials and tools,abbreviations,dimension,head to abdomen,antennas,arms,legs
+dinosaur:
+materials needed,abbreviation,head,arms,legs,body,spikes,tail
+rainbow:
+materials,abbreviations,legs + body + head,skirt,arm (2 details),wing (2 details),hair,assembling
+fairy:
+materials,abbreviations,legs + body + head,skirt,arm (2 details),wing (2 details),hair,assembling
+doll:
+materials,abbreviations,legs + body + head,skirt,arm (2 details),wing (2 details),hair,assembling
+bunny:
+materials:,abbreviations:,legs (make 2),body-head,collar,arms (make 2),cheeks (make 2),ears (make 2),heart
+with:
+materials:,abbreviations:,legs (make 2),body-head,collar,arms (make 2),cheeks (make 2),ears (make 2),heart
+a:
+materials:,abbreviations:,legs (make 2),body-head,collar,arms (make 2),cheeks (make 2),ears (make 2),heart
+heart:
+materials:,abbreviations:,legs (make 2),body-head,collar,arms (make 2),cheeks (make 2),ears (make 2),heart
+koala:
+abbrevation,head,hand (make 2),ear (make 2),body,leg (make 2)
+keychain:
+abbrevation,head,hand (make 2),ear (make 2),body,leg (make 2)
+baby:
+materials:,abbreviation:,legs:,body:,head:,hands:,vines:
+groot:
+materials:,abbreviation:,legs:,body:,head:,hands:,vines:
+mio:
+materials & tool,skill & abbreviations,head,body,dress,arms,legs,leaves (x2)
+newborn:
+designer
+instagram: handmadebylacey,lovely abbreviations,you will need,head,ears (make 2),arms (make 2),blanket,teething ring head,bow,around wooden ring,ears,nose white,pacifier clip,nose,16mm beads
+little:
+designer
+instagram: handmadebylacey,lovely abbreviations,you will need,head,ears (make 2),arms (make 2),blanket,teething ring head,bow,around wooden ring,ears,nose white,pacifier clip,nose,16mm beads
+baby:
+designer
+instagram: handmadebylacey,lovely abbreviations,you will need,head,ears (make 2),arms (make 2),blanket,teething ring head,bow,around wooden ring,ears,nose white,pacifier clip,nose,16mm beads
+easy:
+materials and tools,abbreviations,head and body,ears (2 pcs),arms and legs
+mini:
+materials and tools,abbreviations,head and body,ears (2 pcs),arms and legs
+bear:
+materials and tools,abbreviations,head and body,ears (2 pcs),arms and legs
+lilly:
+abbreviations,head,legs,ears,body
+bunny:
+abbreviations,head,legs,ears,body
+lion:
+materials needed:,abbreviations,head,muzzle,ears (make 2),mane,arms (make 2),tail,right leg,left leg,body
+tiny:
+materials,abbreviations,head,face,body,arms (x2, in brown),legs (x2, in brown),tail (in brown),wings (x2, in white),assembly
+beeny:
+materials,abbreviations,head,face,body,arms (x2, in brown),legs (x2, in brown),tail (in brown),wings (x2, in white),assembly
+bear:
+materials,abbreviations,head,face,body,arms (x2, in brown),legs (x2, in brown),tail (in brown),wings (x2, in white),assembly
+little:
+abbreviation,materials,leg*2,body,head,arm*2,ear*2
+bunnies:
+abbreviation,materials,leg*2,body,head,arm*2,ear*2
+bunny:
+materials,abbreviations,egg,headband,bow
+eggs:
+materials,abbreviations,egg,headband,bow
+bear:
+materials,abbreviation,head,ear (x2),nose,arms (x2),legs (x2),flower,body
+keychain:
+materials,abbreviation,head,ear (x2),nose,arms (x2),legs (x2),flower,body
+elephant:
+materials,head,body,arms (x2),trunk,legs (x2),ears (x2),strawberry,leaf
+keychain:
+materials,head,body,arms (x2),trunk,legs (x2),ears (x2),strawberry,leaf
+golden:
+materials,abbreviations,head & body yellow,nose cream,ear x2 yellow,horn x2 cream,arm x2 yellow,leg x2 yellow,scarf red
+ox:
+materials,abbreviations,head & body yellow,nose cream,ear x2 yellow,horn x2 cream,arm x2 yellow,leg x2 yellow,scarf red
+bull:
+materials,abbreviations,head & body yellow,nose cream,ear x2 yellow,horn x2 cream,arm x2 yellow,leg x2 yellow,scarf red
+bernie:
+materials,abbreviations,head & body cream,arm x2 white,legs x2 brown,ear x2 cream
+doll:
+materials,abbreviations,head & body cream,arm x2 white,legs x2 brown,ear x2 cream
+chicken:
+materials:,abbreviation,beak(orange yarn),wing*2,feet*2,hair
+case:
+materials:,abbreviation,beak(orange yarn),wing*2,feet*2,hair
+harry:
+designer
+instagram: crochet_paladin,materials,abbreviation,legs,body,leaves (make 3),hands,assemble
+potter:
+designer
+instagram: crochet_paladin,materials,abbreviation,legs,body,leaves (make 3),hands,assemble
+mandrake:
+designer
+instagram: crochet_paladin,materials,abbreviation,legs,body,leaves (make 3),hands,assemble
+sakura:
+materials,abbreviation,head,peter pan collar,feet (make 2),body,ears (make 2),arms (make 2),muzzle,tail,flower (make 2),assembly
+the:
+materials,abbreviation,head,peter pan collar,feet (make 2),body,ears (make 2),arms (make 2),muzzle,tail,flower (make 2),assembly
+bunny:
+materials,abbreviation,head,peter pan collar,feet (make 2),body,ears (make 2),arms (make 2),muzzle,tail,flower (make 2),assembly
+cute:
+materials:,abbreviations:,body:,wing:,ned:,leaves:,flower:,gathering:
+bird:
+materials:,abbreviations:,body:,wing:,ned:,leaves:,flower:,gathering:
+little:
+materials,abbreviations,head,legs (make 2),body,dress,arms (make 2),ears (make 2)
+bunny:
+materials,abbreviations,head,legs (make 2),body,dress,arms (make 2),ears (make 2)
+nina:
+materials,abbreviations,head,legs (make 2),body,dress,arms (make 2),ears (make 2)
+teddy:
+material,abbreviation,leg*2,body,head,arm*2,ear*2,materials,shirt,hat,bag,download pdf file
+bear:
+material,abbreviation,leg*2,body,head,arm*2,ear*2,materials,shirt,hat,bag,download pdf file
+with:
+material,abbreviation,leg*2,body,head,arm*2,ear*2,materials,shirt,hat,bag,download pdf file
+outfits:
+material,abbreviation,leg*2,body,head,arm*2,ear*2,materials,shirt,hat,bag,download pdf file
+star:
+materials:,abbreviation:,legs,body,head,hands,ears,robe,sleeves,assemble:
+wars:
+materials:,abbreviation:,legs,body,head,hands,ears,robe,sleeves,assemble:
+baby:
+materials:,abbreviation:,legs,body,head,hands,ears,robe,sleeves,assemble:
+yoda:
+materials:,abbreviation:,legs,body,head,hands,ears,robe,sleeves,assemble:
+easy:
+materials,abbreviations,head,fur cap (the other part of the head),arms (x2),ears- middle part (x2),ears- fur part (x2),legs (x2),body,assembling
+sheep:
+materials,abbreviations,head,fur cap (the other part of the head),arms (x2),ears- middle part (x2),ears- fur part (x2),legs (x2),body,assembling
+easy:
+materials,abbreviation,leg*2,body,arm*2,ear*2
+little:
+materials,abbreviation,leg*2,body,arm*2,ear*2
+hippo:
+materials,abbreviation,leg*2,body,arm*2,ear*2
+cute:
+materials and tools used:,abbreviation,head,ears (2 parts),body,legs (2 parts),arms (2 parts),tail (you can use a pompom),assembly
+bunny:
+materials and tools used:,abbreviation,head,ears (2 parts),body,legs (2 parts),arms (2 parts),tail (you can use a pompom),assembly
+keychain:
+materials and tools used:,abbreviation,head,ears (2 parts),body,legs (2 parts),arms (2 parts),tail (you can use a pompom),assembly
+cute:
+materials and tools used:,abbreviation,head,ears (2 parts),body,legs (2 parts),hands (2 parts),tail
+cat:
+materials and tools used:,abbreviation,head,ears (2 parts),body,legs (2 parts),hands (2 parts),tail
+keychain:
+materials and tools used:,abbreviation,head,ears (2 parts),body,legs (2 parts),hands (2 parts),tail
+captain:
+material,abbreviations,leg+ body+ head,neck stiffener,ear (2x),trouser,hat
+bunny:
+material,abbreviations,leg+ body+ head,neck stiffener,ear (2x),trouser,hat
+berry:
+abbreviations,materials,head,ears,muzzle,hair,body,legs*2,arms*2,dress,suspenders
+bear:
+abbreviations,materials,head,ears,muzzle,hair,body,legs*2,arms*2,dress,suspenders
+strawberry:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),collar,strawberry,strawberry hat,dress,cream,little balls (make 12),hair cap,hair strands,bun,hair cream,hair pictorial,download pdf file
+fairy:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),collar,strawberry,strawberry hat,dress,cream,little balls (make 12),hair cap,hair strands,bun,hair cream,hair pictorial,download pdf file
+doll:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),collar,strawberry,strawberry hat,dress,cream,little balls (make 12),hair cap,hair strands,bun,hair cream,hair pictorial,download pdf file
+cute:
+abbreviations,head:,leaves:,horns:,flowers:,bud:,grass:,assembly and decoration:,legs:,arms:,ears:,body:
+little:
+abbreviations,head:,leaves:,horns:,flowers:,bud:,grass:,assembly and decoration:,legs:,arms:,ears:,body:
+giraffe:
+abbreviations,head:,leaves:,horns:,flowers:,bud:,grass:,assembly and decoration:,legs:,arms:,ears:,body:
+bee:
+metarials needed,abbreviations:,body,wings,arms
+keychain:
+metarials needed,abbreviations:,body,wings,arms
+cat:
+material,abbreviation,leg*2,body,bunny head,cat head,arm*2,collar,cat ears,bunny ears
+and:
+material,abbreviation,leg*2,body,bunny head,cat head,arm*2,collar,cat ears,bunny ears
+bunny:
+material,abbreviation,leg*2,body,bunny head,cat head,arm*2,collar,cat ears,bunny ears
+baby:
+materials,abbreviation,head,scarf,body,nose,arm*2,ear*2
+teddy:
+materials,abbreviation,head,scarf,body,nose,arm*2,ear*2
+bear:
+materials,abbreviation,head,scarf,body,nose,arm*2,ear*2
+plush:
+materials:,abbreviations,ears (2 parts):,head:,upper legs (2 times):,lower legs (2 times):,body:
+bunny:
+materials:,abbreviations,ears (2 parts):,head:,upper legs (2 times):,lower legs (2 times):,body:
+neon:
+materials:,abbreviations,ears (2 parts):,head:,upper legs (2 times):,lower legs (2 times):,body:
+little:
+materials,abbreviation,head,arm*2,leg*2,shirt,ear*2,hat
+miki:
+materials,abbreviation,head,arm*2,leg*2,shirt,ear*2,hat
+cat:
+materials,abbreviation,head,arm*2,leg*2,shirt,ear*2,hat
+totoro:
+materials,abbreviation,body,ear*2,arm*2,tail
+cute:
+materials,abbreviation,head,body,arm*2,leg*2,ear*2
+little:
+materials,abbreviation,head,body,arm*2,leg*2,ear*2
+dog:
+materials,abbreviation,head,body,arm*2,leg*2,ear*2
+plush:
+materials,abbreviations,arm (make 2),tail (make 1),legs (make 2),body,head,muzzle,ears (make 2),assembly,dress,trousers
+tiger:
+materials,abbreviations,arm (make 2),tail (make 1),legs (make 2),body,head,muzzle,ears (make 2),assembly,dress,trousers
+miffy:
+materials,abbreviation,leg*2,body,head,arm*2,ear*2,skirt,carrot
+bunny:
+materials,abbreviation,leg*2,body,head,arm*2,ear*2,skirt,carrot
+sunflower:
+abbreviations,head,legs-body,arms,ears,muzzle,finish
+teddy:
+abbreviations,head,legs-body,arms,ears,muzzle,finish
+bear:
+abbreviations,head,legs-body,arms,ears,muzzle,finish
+susu:
+abbreviations,legs-body,head,arms,dress,hair
+the:
+abbreviations,legs-body,head,arms,dress,hair
+watermelon:
+abbreviations,legs-body,head,arms,dress,hair
+deer:
+head,arm,ear,leg*2,horn,nose
+keychain:
+head,arm,ear,leg*2,horn,nose
+pink:
+abbreviations,head,arm,ears,nose,leg
+pig:
+abbreviations,head,arm,ears,nose,leg
+keychain:
+abbreviations,head,arm,ears,nose,leg
+pumpkin:
+abbreviation,materials,head,body,leg*2,ear*2,arm*2,skirt,hat
+cat:
+abbreviation,materials,head,body,leg*2,ear*2,arm*2,skirt,hat
+snow:
+materials,abbreviation,leg*2,body,head,ear*2,arm*2,scarf
+bunny:
+materials,abbreviation,leg*2,body,head,ear*2,arm*2,scarf
+baby:
+abbreviation,materials,leg*2,body,head,arm*2,ear*2
+piglet:
+abbreviation,materials,leg*2,body,head,arm*2,ear*2
+little:
+materials,abbreviations,legs (make 2),body,skirt,head,ears (make 2),arms (make 2),bow,assembly
+bunny:
+materials,abbreviations,legs (make 2),body,skirt,head,ears (make 2),arms (make 2),bow,assembly
+easy:
+designer
+instagram: beary_bearnita_,abbreviations,materials,body,beak (orange yarn),wing*2,feet*2,hat
+baby:
+designer
+instagram: beary_bearnita_,abbreviations,materials,body,beak (orange yarn),wing*2,feet*2,hat
+chicken:
+designer
+instagram: beary_bearnita_,abbreviations,materials,body,beak (orange yarn),wing*2,feet*2,hat
+scampi:
+abbreviations,fin,body,arms,knitted shirt: (3 mm needles),optional crochet shirt:,headband with mini starfish:
+mermaid:
+abbreviations,fin,body,arms,knitted shirt: (3 mm needles),optional crochet shirt:,headband with mini starfish:
+rainbow:
+size:,skill level needed:,materials needed:,abbreviations:,notes:,head and body:,edging of body:,antennaes(make 2):,back gills:,assembly,,antennaes and smile:,additional information:
+sea:
+size:,skill level needed:,materials needed:,abbreviations:,notes:,head and body:,edging of body:,antennaes(make 2):,back gills:,assembly,,antennaes and smile:,additional information:
+slug:
+size:,skill level needed:,materials needed:,abbreviations:,notes:,head and body:,edging of body:,antennaes(make 2):,back gills:,assembly,,antennaes and smile:,additional information:
+cute:
+materials:,abbreviation:,head:,legs (make 2):,body:,ears:,checks:,arms (make 2):,bag:
+mouse:
+materials:,abbreviation:,head:,legs (make 2):,body:,ears:,checks:,arms (make 2):,bag:
+sleepy:
+materials,abbreviations,ears (2 times),head,hands (2 times.) (don't stuff),legs (stuff during the crocheting process),body,assembling
+bunny:
+materials,abbreviations,ears (2 times),head,hands (2 times.) (don't stuff),legs (stuff during the crocheting process),body,assembling
+teddy:
+abbreviations,materials and tools,head,arms,legs,ears,body,tail,assembly and design
+bear:
+abbreviations,materials and tools,head,arms,legs,ears,body,tail,assembly and design
+mishka:
+abbreviations,materials and tools,head,arms,legs,ears,body,tail,assembly and design
+hello:
+abbreviations,materials,leg*2,body,head,ear*2,arm*2,straps
+kitty:
+abbreviations,materials,leg*2,body,head,ear*2,arm*2,straps
+penguin:
+pattern details,metarials needed:,abbreviation:,size:,head,cone,beak,wings,cream,cherry,stem
+ice:
+pattern details,metarials needed:,abbreviation:,size:,head,cone,beak,wings,cream,cherry,stem
+cream:
+pattern details,metarials needed:,abbreviation:,size:,head,cone,beak,wings,cream,cherry,stem
+pocket:
+materials,abbreviations,head,arms*2,ears*2,body,legs*2,tail(white),assembly
+bunny:
+materials,abbreviations,head,arms*2,ears*2,body,legs*2,tail(white),assembly
+pretty:
+abbreviations,head,ears,arms,legs,body,skirt,claps
+bunny:
+abbreviations,head,ears,arms,legs,body,skirt,claps
+merlin:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,tail:,arms(make 2):,legs(make 2):,hat:,ears(make 2):,cape:,hatband:,assembly,helpful tips:
+the:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,tail:,arms(make 2):,legs(make 2):,hat:,ears(make 2):,cape:,hatband:,assembly,helpful tips:
+magician:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,tail:,arms(make 2):,legs(make 2):,hat:,ears(make 2):,cape:,hatband:,assembly,helpful tips:
+mouse:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,tail:,arms(make 2):,legs(make 2):,hat:,ears(make 2):,cape:,hatband:,assembly,helpful tips:
+mouse:
+materials,abbreviation,legs,body,head,arms,eyes,ears,tail,assembly
+jack:
+materials,abbreviation,legs,body,head,arms,eyes,ears,tail,assembly
+cute:
+material:,abbreviations:,size:,head,ear (make 2),horn,body,arm (make 2),leg (make 2),swing (make 2),hair (make 11),tail (make 4),heart
+unicorn:
+material:,abbreviations:,size:,head,ear (make 2),horn,body,arm (make 2),leg (make 2),swing (make 2),hair (make 11),tail (make 4),heart
+keychain:
+material,abbreviations:,head,ear,body,arm,leg,carrot,leaves,tail
+bunny:
+material,abbreviations:,head,ear,body,arm,leg,carrot,leaves,tail
+koala:
+abbreviations,ears x4,nose,head,arm x2,leg x2,body
+keychain:
+abbreviations,ears x4,nose,head,arm x2,leg x2,body
+mrs.:
+abbreviations,head,cheeks,legs,body,bow,ears,arms,dress
+cute:
+abbreviations,head,cheeks,legs,body,bow,ears,arms,dress
+bunny:
+abbreviations,head,cheeks,legs,body,bow,ears,arms,dress
+little:
+metarials needed:,abbreviations:,flower pot,cactus,arms:,nose:,hat:
+christmas:
+metarials needed:,abbreviations:,flower pot,cactus,arms:,nose:,hat:
+cactus:
+metarials needed:,abbreviations:,flower pot,cactus,arms:,nose:,hat:
+popcorn:
+abbreviations,head,legs,arms,ears,body
+lamb:
+abbreviations,head,legs,arms,ears,body
+honey:
+abbreviations,materials,head,ear x 2,nose,body,arm x 2,leg x 2,bee,wing x 2
+bear:
+abbreviations,materials,head,ear x 2,nose,body,arm x 2,leg x 2,bee,wing x 2
+baby:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,horns(make 2):,wings(make 2):,hair:,assembly,wings:,helpful tips:
+occamy:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,horns(make 2):,wings(make 2):,hair:,assembly,wings:,helpful tips:
+easy:
+materials:,abbreviations,leaves
+carrot:
+materials:,abbreviations,leaves
+plush:
+materials,tools,abbreviations,crochet bunny pattern,head,legs (2 details),
+nose,arms (2 details),ears (2 details),tail,sundress pattern,knitting pattern,tape (2 details)
+bunny:
+materials,tools,abbreviations,crochet bunny pattern,head,legs (2 details),
+nose,arms (2 details),ears (2 details),tail,sundress pattern,knitting pattern,tape (2 details)
+tiny:
+materials:,abbreviations:,head:,ears (make 2),snout:,body:,legs:,arms (make 2):,tail:,assembly:,mane:
+lion:
+materials:,abbreviations:,head:,ears (make 2),snout:,body:,legs:,arms (make 2):,tail:,assembly:,mane:
+speedy:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,arms(make 2):,legs(make 2):,tail:,ears:,assembly,head and body:,arms:,legs:,embellishments:
+the:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,arms(make 2):,legs(make 2):,tail:,ears:,assembly,head and body:,arms:,legs:,embellishments:
+ferret:
+pattern details,materials needed:,abbreviations:,notes:,head:,body:,arms(make 2):,legs(make 2):,tail:,ears:,assembly,head and body:,arms:,legs:,embellishments:
+chubby:
+abbreviations & materials:,whale- any colour you like,tail,fins,leaf
+whale:
+abbreviations & materials:,whale- any colour you like,tail,fins,leaf
+easy:
+materials and tolls,abbreviations,ears (make two),spots around the eyes (make two),hands (make two),legs (make two),body,assembling
+little:
+materials and tolls,abbreviations,ears (make two),spots around the eyes (make two),hands (make two),legs (make two),body,assembling
+panda:
+materials and tolls,abbreviations,ears (make two),spots around the eyes (make two),hands (make two),legs (make two),body,assembling
+baby:
+head (use green),ears (make 2 in green),feet (make 2 in green),body,arms (make 2 in green),sleeves
+yoda:
+head (use green),ears (make 2 in green),feet (make 2 in green),body,arms (make 2 in green),sleeves
+tiny:
+metarials,abbreviations,head:,snout,ears (make2),body,legs (make2),arms (make2),tail,assembly
+tiger:
+metarials,abbreviations,head:,snout,ears (make2),body,legs (make2),arms (make2),tail,assembly
+pinky:
+head,leg,body,arm,ear
+bunny:
+head,leg,body,arm,ear
+snoopy:
+abbreviations:,head:,aviatorhat:,aviator goggle x 2 pieces,body:,arms:,legs:,tail:,spot on back,ears (x2 pieces),nose
+dog:
+abbreviations:,head:,aviatorhat:,aviator goggle x 2 pieces,body:,arms:,legs:,tail:,spot on back,ears (x2 pieces),nose
+easter:
+materials,notes,abbreviations,arms (make 2),legs (make 2),ears (make 2)
+bunny:
+materials,notes,abbreviations,arms (make 2),legs (make 2),ears (make 2)
+sunny:
+pattern details,materials needed:,abbreviations:,notes:,head:,head continued:,trunk:,legs/body:,legs/body continued,legs/body continued:,skirt:,tail:,sunflower:,arms(make 2):,ears(make 2 in color a, 2 in color f):,assembly,head and body:,ears:,arms:,cheeks:,helpful tips:
+the:
+pattern details,materials needed:,abbreviations:,notes:,head:,head continued:,trunk:,legs/body:,legs/body continued,legs/body continued:,skirt:,tail:,sunflower:,arms(make 2):,ears(make 2 in color a, 2 in color f):,assembly,head and body:,ears:,arms:,cheeks:,helpful tips:
+elephant:
+pattern details,materials needed:,abbreviations:,notes:,head:,head continued:,trunk:,legs/body:,legs/body continued,legs/body continued:,skirt:,tail:,sunflower:,arms(make 2):,ears(make 2 in color a, 2 in color f):,assembly,head and body:,ears:,arms:,cheeks:,helpful tips:
+amelia:
+pattern details,materials needed:,abbreviations:,notes:,head:,legs and body:,nose:,arms(make 2):,tail:,ears(make 2 in color a, 2 in color e):,horns(make 2):,spots:,bow:,skirt:,assembly,head and body:,muzzle:,arms:,horns:,legs:,spots and embellishments:,helpful tips:,additional information
+the:
+pattern details,materials needed:,abbreviations:,notes:,head:,legs and body:,nose:,arms(make 2):,tail:,ears(make 2 in color a, 2 in color e):,horns(make 2):,spots:,bow:,skirt:,assembly,head and body:,muzzle:,arms:,horns:,legs:,spots and embellishments:,helpful tips:,additional information
+giraffe:
+pattern details,materials needed:,abbreviations:,notes:,head:,legs and body:,nose:,arms(make 2):,tail:,ears(make 2 in color a, 2 in color e):,horns(make 2):,spots:,bow:,skirt:,assembly,head and body:,muzzle:,arms:,horns:,legs:,spots and embellishments:,helpful tips:,additional information
+easy:
+abbreviations,legs: (make 2),body,head,ears: (make 2),hands: (make 2),scarf :
+white:
+abbreviations,legs: (make 2),body,head,ears: (make 2),hands: (make 2),scarf :
+bunny:
+abbreviations,legs: (make 2),body,head,ears: (make 2),hands: (make 2),scarf :
+gnome:
+pattern details,materials needed:,abbreviations:,notes:,body:,hat:,arms(make 2):,nose:,legs(make 2):,legs continued:,beard(optional):,assembly,arms:,legs:,cluster stitch:
+little:
+materials and tools,abbreviations,body,tail,arms (make two),legs (make two),ears (make 2),assembling
+cat:
+materials and tools,abbreviations,body,tail,arms (make two),legs (make two),ears (make 2),assembling
+junie:
+arms,legs,cardigan,collar,skirt
+b:
+arms,legs,cardigan,collar,skirt
+jones:
+arms,legs,cardigan,collar,skirt
+doll:
+arms,legs,cardigan,collar,skirt
+molly:
+abbreviations,head,legs- 2 parts,ears- 2 parts,handles- 2 parts,scarf
+kitty:
+abbreviations,head,legs- 2 parts,ears- 2 parts,handles- 2 parts,scarf
+little:
+meterials:,abbreviations:,head,arms,legs,stomach,ears,bow,assembly
+fox:
+meterials:,abbreviations:,head,arms,legs,stomach,ears,bow,assembly
+ponchino:
+materials,abbreviations,head,ears,body,arms,legs,ruffle,rainbow application,knitted shirt: needle slze 2.0
+bunny:
+materials,abbreviations,head,ears,body,arms,legs,ruffle,rainbow application,knitted shirt: needle slze 2.0
+franky:
+abbreviations,head,ears,horns,muzzle,body,arms & legs,dots,tail,scarf
+giraffe:
+abbreviations,head,ears,horns,muzzle,body,arms & legs,dots,tail,scarf
+tuxedo:
+abbreviations & materials,head & body,mouth- [yellow],arms- [blue],legs- [yellow],bow- [red],hat- [white]
+sam:
+abbreviations & materials,head & body,mouth- [yellow],arms- [blue],legs- [yellow],bow- [red],hat- [white]
+penguin:
+abbreviations & materials,head & body,mouth- [yellow],arms- [blue],legs- [yellow],bow- [red],hat- [white]
+simple:
+to crochet this bunny bookmark you need:,abbreviations:,head:,ears (make 2):,assemble the head:,body:,tail:,assemble the bookmark:
+bunny:
+to crochet this bunny bookmark you need:,abbreviations:,head:,ears (make 2):,assemble the head:,body:,tail:,assemble the bookmark:
+bookmark:
+to crochet this bunny bookmark you need:,abbreviations:,head:,ears (make 2):,assemble the head:,body:,tail:,assemble the bookmark:
+little:
+materials,abbreviations,notes,body,arms (make 2),eyes (make 2)
+ghost:
+materials,abbreviations,notes,body,arms (make 2),eyes (make 2)
+little:
+abbreviation,materials,leg*2,body,skirt,head,ear*2,arm*2
+bunny:
+abbreviation,materials,leg*2,body,skirt,head,ear*2,arm*2
+winnie:
+abbreviation,materials,leg*2,body,head,ear*2,arm*2,sleeves
+the:
+abbreviation,materials,leg*2,body,head,ear*2,arm*2,sleeves
+pooh:
+abbreviation,materials,leg*2,body,head,ear*2,arm*2,sleeves
+little:
+abbreviations & materials,head- white,ears- white,legs- body- white,arms- white,hat- red,cheeks- pink
+bunny:
+abbreviations & materials,head- white,ears- white,legs- body- white,arms- white,hat- red,cheeks- pink
+christmas:
+abbreviations & materials,head- white,ears- white,legs- body- white,arms- white,hat- red,cheeks- pink
+rainbow:
+to crochet this bear toy you need:,abbreviations:,changing the yarn colour:,colour schemes for different bears:,arms (make 2):,head:,muzzle:,ears (make 2):,legs (make 2):,body:,assembly:
+teddy:
+to crochet this bear toy you need:,abbreviations:,changing the yarn colour:,colour schemes for different bears:,arms (make 2):,head:,muzzle:,ears (make 2):,legs (make 2):,body:,assembly:
+bear:
+to crochet this bear toy you need:,abbreviations:,changing the yarn colour:,colour schemes for different bears:,arms (make 2):,head:,muzzle:,ears (make 2):,legs (make 2):,body:,assembly:
+little:
+yarn,you will also need,abbreviations,legs,body,head,arms,pants,belt,hat
+santa:
+yarn,you will also need,abbreviations,legs,body,head,arms,pants,belt,hat
+christmas:
+yarn,you will also need,abbreviations,legs,body,head,arms,pants,belt,hat
+fox:
+to crochet this fox lip balm case you need:,abbreviations:,bottom part:,upper part:,sew these parts together:,snout:,ears (make 2):,assemble the keychain:
+case:
+to crochet this fox lip balm case you need:,abbreviations:,bottom part:,upper part:,sew these parts together:,snout:,ears (make 2):,assemble the keychain:
+keychain:
+to crochet this fox lip balm case you need:,abbreviations:,bottom part:,upper part:,sew these parts together:,snout:,ears (make 2):,assemble the keychain:
+baby:
+metarials,abbreviation,head,body,legs,arms,ears ,muzzle,nostrils ,assembly
+hippo:
+metarials,abbreviation,head,body,legs,arms,ears ,muzzle,nostrils ,assembly
+bunny:
+first leg,helmet- blue,backpack,ear x2
+among:
+first leg,helmet- blue,backpack,ear x2
+us:
+first leg,helmet- blue,backpack,ear x2
+fluffy:
+to crochet this bunny toy you need:,abbreviations:,changing the yarn colour:,
+head:,body:,ears (make 2):,legs (make 2):,arms (make 2):,tail:,assemble the bunny:
+bunny:
+to crochet this bunny toy you need:,abbreviations:,changing the yarn colour:,
+head:,body:,ears (make 2):,legs (make 2):,arms (make 2):,tail:,assemble the bunny:
+stuffed:
+materials:,tools:,abbreviations:,crochet bear pattern,head (place a marker at the beginning of the round),legs (2 details) ,arms (2 details) ,ears (2 details) ,tail ,muzzle
+teddy:
+materials:,tools:,abbreviations:,crochet bear pattern,head (place a marker at the beginning of the round),legs (2 details) ,arms (2 details) ,ears (2 details) ,tail ,muzzle
+bear:
+materials:,tools:,abbreviations:,crochet bear pattern,head (place a marker at the beginning of the round),legs (2 details) ,arms (2 details) ,ears (2 details) ,tail ,muzzle
+ben:
+abbreviations,eyes,head and body,wings,beak,tumy,feet
+the:
+abbreviations,eyes,head and body,wings,beak,tumy,feet
+penguin:
+abbreviations,eyes,head and body,wings,beak,tumy,feet
+little:
+materials:,abbreviations:,body-head:,tentacles (make 10):,assembly:
+blue:
+materials:,abbreviations:,body-head:,tentacles (make 10):,assembly:
+jellyfish:
+materials:,abbreviations:,body-head:,tentacles (make 10):,assembly:
+anpanman:
+abbreviations & materials,materials,head- skin color,arms- yellow,legs- yellow,mr. sun- yellow,nose- red,cheeks- orange /red,cape- brown
+mini:
+materials,abbrieviation,arm*2,leg*2,body,head,glaze
+gingerbread:
+materials,abbrieviation,arm*2,leg*2,body,head,glaze
+keychain:
+materials,abbrieviation,arm*2,leg*2,body,head,glaze
+unicorn:
+materials,abbreviations,head-body (1 piece ),body,head,ears (make 2),eyes (make 2),arms (make 2),horn,mane,belly
+rainbow:
+materials,abbreviations,head-body (1 piece ),body,head,ears (make 2),eyes (make 2),arms (make 2),horn,mane,belly
+cute:
+materials,abbreviations,
+wing,
+body
+chick-egg:
+materials,abbreviations,
+wing,
+body
+kenny:
+materials,abbreviations,1. head,2.ears (x2),3. hand (x2),4. nose,5. legs (x2),6. body
+the:
+materials,abbreviations,1. head,2.ears (x2),3. hand (x2),4. nose,5. legs (x2),6. body
+pig:
+materials,abbreviations,1. head,2.ears (x2),3. hand (x2),4. nose,5. legs (x2),6. body
+muzika:
+abreviaturas,materiales,piernas (hacer 2),cuerpo,cabeza,brazos (hacer 2),gorro de pelo,hebras de cabello,auricular,bermudas,camisa,parche de corazon,botines (hacer 2),download pdf file
+girl:
+abreviaturas,materiales,piernas (hacer 2),cuerpo,cabeza,brazos (hacer 2),gorro de pelo,hebras de cabello,auricular,bermudas,camisa,parche de corazon,botines (hacer 2),download pdf file
+doll:
+abreviaturas,materiales,piernas (hacer 2),cuerpo,cabeza,brazos (hacer 2),gorro de pelo,hebras de cabello,auricular,bermudas,camisa,parche de corazon,botines (hacer 2),download pdf file
+pinocchio:
+abbreviations,materials,legs (use brown color and make 2),body (use flesh-color yarn),shoelaces (use brown color and make 2),head (flesh-color yarn),ear (flesh-color yarn and make 2),nose (use flesh-color yarn),hair (use black yarn),instruction images for hair,collar (use white yarn),hat (use yellow and blue yarns),arm (use flesh-color yarn and make 2),pants (use red yarn),,bow tie (use blue yarn),download pdf file
+doll:
+abbreviations,materials,legs (use brown color and make 2),body (use flesh-color yarn),shoelaces (use brown color and make 2),head (flesh-color yarn),ear (flesh-color yarn and make 2),nose (use flesh-color yarn),hair (use black yarn),instruction images for hair,collar (use white yarn),hat (use yellow and blue yarns),arm (use flesh-color yarn and make 2),pants (use red yarn),,bow tie (use blue yarn),download pdf file
+elf:
+abbreviations,materials,legs (red/cream) x 2,body,head (skin color),collar (cream color ),inner part of the skirt (cream color),upper part of the skirt (green color),arms (skin color) x 2,elf bootie (green color) x2,bootie toe (green color) x2,bootie ankle(green) x2,bow(green color),bow stripe (green),shoulder straps of dress (green color) x2,hair cap(brown color),hair braid (brown color),ears (skin color) x 2,beanie(red/cream),pompom(cream color),download pdf file
+berry:
+abbreviations,materials,legs (red/cream) x 2,body,head (skin color),collar (cream color ),inner part of the skirt (cream color),upper part of the skirt (green color),arms (skin color) x 2,elf bootie (green color) x2,bootie toe (green color) x2,bootie ankle(green) x2,bow(green color),bow stripe (green),shoulder straps of dress (green color) x2,hair cap(brown color),hair braid (brown color),ears (skin color) x 2,beanie(red/cream),pompom(cream color),download pdf file
+christmas:
+abbreviations,materials,legs (red/cream) x 2,body,head (skin color),collar (cream color ),inner part of the skirt (cream color),upper part of the skirt (green color),arms (skin color) x 2,elf bootie (green color) x2,bootie toe (green color) x2,bootie ankle(green) x2,bow(green color),bow stripe (green),shoulder straps of dress (green color) x2,hair cap(brown color),hair braid (brown color),ears (skin color) x 2,beanie(red/cream),pompom(cream color),download pdf file
+doll:
+abbreviations,materials,legs (red/cream) x 2,body,head (skin color),collar (cream color ),inner part of the skirt (cream color),upper part of the skirt (green color),arms (skin color) x 2,elf bootie (green color) x2,bootie toe (green color) x2,bootie ankle(green) x2,bow(green color),bow stripe (green),shoulder straps of dress (green color) x2,hair cap(brown color),hair braid (brown color),ears (skin color) x 2,beanie(red/cream),pompom(cream color),download pdf file
+deer:
+abbreviations,materials,legs (use milky brown color and make 2),body (use milky brown),head (use milky brown),nose (use milky brown /cream),horns (use cream color and make 2),ears (use milky brown color and make 2),dress (mustard color),first arm chrocheting,arm pit/ color and back yaka ve srt seperation;,lower body section of dress,around arms;,flower (pink color),leaf (green color),dress and accessories images,download pdf file
+nenana:
+abbreviations,materials,legs (use milky brown color and make 2),body (use milky brown),head (use milky brown),nose (use milky brown /cream),horns (use cream color and make 2),ears (use milky brown color and make 2),dress (mustard color),first arm chrocheting,arm pit/ color and back yaka ve srt seperation;,lower body section of dress,around arms;,flower (pink color),leaf (green color),dress and accessories images,download pdf file
+llama:
+abbreviations,materials,legs (use white color and make 2),make heel part,body (use white and milky brown),head (use white color yarn),tress (use white color yarn),mouth (use white color yarn),ear (use white color yarn and make 2),shape the head,arm (use white and milky brown color yarn and make 2),skirt (use milky brown color yarn),poncho,download pdf file
+patmos:
+abbreviations,materials,legs (use white color and make 2),make heel part,body (use white and milky brown),head (use white color yarn),tress (use white color yarn),mouth (use white color yarn),ear (use white color yarn and make 2),shape the head,arm (use white and milky brown color yarn and make 2),skirt (use milky brown color yarn),poncho,download pdf file
+calypso:
+abbreviations ,materials,mermaid tail (use batik pink color),body (use batik pink color),head (use skin color),arms (use skin color and make 2),hair cap (use batik pink color),hair (use batik pink color),ivy (with green color yarn and make 15),flowers (with pink, light blue, dark blue yarn and make 10),flower and leaf images,download pdf file
+mermaid:
+abbreviations ,materials,mermaid tail (use batik pink color),body (use batik pink color),head (use skin color),arms (use skin color and make 2),hair cap (use batik pink color),hair (use batik pink color),ivy (with green color yarn and make 15),flowers (with pink, light blue, dark blue yarn and make 10),flower and leaf images,download pdf file
+moomin:
+abbreviations,materials used,head,eyes and mouth,ears ( make 2),body and legs,arms ( make 2),tail
+crove:
+abbreviations,materials,legs (make 2),body,head,collar,arms (make 2),skirt,inner skirt,skirt strap (make 2),ears (make 2),hair,download pdf file
+doll:
+abbreviations,materials,legs (make 2),body,head,collar,arms (make 2),skirt,inner skirt,skirt strap (make 2),ears (make 2),hair,download pdf file
+viking:
+abbreviations,materials,legs (make 2),body,head,ears (make 2),arms (make 2),horn,hair,hair pictorial,dress,download pdf file
+girl:
+abbreviations,materials,legs (make 2),body,head,ears (make 2),arms (make 2),horn,hair,hair pictorial,dress,download pdf file
+doll:
+abbreviations,materials,legs (make 2),body,head,ears (make 2),arms (make 2),horn,hair,hair pictorial,dress,download pdf file
+winnie:
+materials used,abbreviations,head,muzzle,nose,eyes,eyebrows,mouth,ears (make 2),body,legs (make 2),arms (make 2)
+the:
+materials used,abbreviations,head,muzzle,nose,eyes,eyebrows,mouth,ears (make 2),body,legs (make 2),arms (make 2)
+pooh:
+materials used,abbreviations,head,muzzle,nose,eyes,eyebrows,mouth,ears (make 2),body,legs (make 2),arms (make 2)
+christmas:
+abbreviations,materials,legs ( make 2),body,head,arms ( make 2),collar,skirt,beanie,hair,download pdf file
+crcohet:
+abbreviations,materials,legs ( make 2),body,head,arms ( make 2),collar,skirt,beanie,hair,download pdf file
+elf:
+abbreviations,materials,legs ( make 2),body,head,arms ( make 2),collar,skirt,beanie,hair,download pdf file
+doll:
+abbreviations,materials,legs ( make 2),body,head,arms ( make 2),collar,skirt,beanie,hair,download pdf file
+muur:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),hair cap,skirt,top,skull,horns (make 2),scepter,leaves (make 8),flowers ( make 6),shawl,download pdf file
+shaman:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),hair cap,skirt,top,skull,horns (make 2),scepter,leaves (make 8),flowers ( make 6),shawl,download pdf file
+doll:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),hair cap,skirt,top,skull,horns (make 2),scepter,leaves (make 8),flowers ( make 6),shawl,download pdf file
+cotton:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),beanie,scarf,skirt,hair,download pdf file
+candy:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),beanie,scarf,skirt,hair,download pdf file
+lily:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),beanie,scarf,skirt,hair,download pdf file
+doll:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),beanie,scarf,skirt,hair,download pdf file
+lion:
+abbreviations,materials,head,ears (make 2),arms (make 2),body,mane sole,mane,legs (make 2),cheeks (make 2),sweater,download pdf file
+benroy:
+abbreviations,materials,head,ears (make 2),arms (make 2),body,mane sole,mane,legs (make 2),cheeks (make 2),sweater,download pdf file
+sloth:
+abbreviations,materials,eye patch (make 2),head,fingers (make 3 for each hand),arms (make 2),body,cheeks (make 2),hair,foot fingers (make 3 for each foot),legs (make 2),download pdf file
+coco:
+abbreviations,materials,eye patch (make 2),head,fingers (make 3 for each hand),arms (make 2),body,cheeks (make 2),hair,foot fingers (make 3 for each foot),legs (make 2),download pdf file
+happy:
+abbreviations,materials,head,body,leg (make 2),arms (make 2),tail,hat,hat spots,cake sole,cherry,cake cream,download pdf file
+monroe:
+abbreviations,materials,head,body,leg (make 2),arms (make 2),tail,hat,hat spots,cake sole,cherry,cake cream,download pdf file
+dinosaur:
+abbreviations,materials,head,body,leg (make 2),arms (make 2),tail,hat,hat spots,cake sole,cherry,cake cream,download pdf file
+fairy:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),ears (make 2),hair cap,hair strands,romper,flowers (make 3),,wings (make 4),necklace,download pdf file
+pui:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),ears (make 2),hair cap,hair strands,romper,flowers (make 3),,wings (make 4),necklace,download pdf file
+doll:
+abbreviations,materials,legs (make 2),body,head,arms (make 2),ears (make 2),hair cap,hair strands,romper,flowers (make 3),,wings (make 4),necklace,download pdf file
+christmas:
+abbreviations,materials,head and body,arms (make 2),hair ,wings,skirt/ hair/ wing borders,download pdf file
+angel:
+abbreviations,materials,head and body,arms (make 2),hair ,wings,skirt/ hair/ wing borders,download pdf file
+mang:
+abbreviations & materials,head (white),body (gray),legs (yellow),arms (yellow)
+tae:
+abbreviations & materials,head (white),body (gray),legs (yellow),arms (yellow)
+halloween:
+abbreviations & materials,head- white,ears- white,first leg- white,hat- orange,collar- green at r21 blo,arms- white
+character:
+abbreviations & materials,head- white,ears- white,first leg- white,hat- orange,collar- green at r21 blo,arms- white
+mimi:
+abbreviations & materials,head- white,ears- white,first leg- white,hat- orange,collar- green at r21 blo,arms- white
+bunny:
+abbreviations & materials,head- white,ears- white,first leg- white,hat- orange,collar- green at r21 blo,arms- white
+halloween:
+materials used,pumpkin:,pumpkin (continued),stem
+plush:
+materials used,pumpkin:,pumpkin (continued),stem
+pumpkin:
+materials used,pumpkin:,pumpkin (continued),stem
+teddy:
+necessary materials:,symbols,hands (2 times),legs,body,muzzle,ears (2-piece)
+bear:
+necessary materials:,symbols,hands (2 times),legs,body,muzzle,ears (2-piece)
+honey:
+materials,abbreviations,leg*2,body,head,arm*2,ear*2,scarf
+bear:
+materials,abbreviations,leg*2,body,head,arm*2,ear*2,scarf
+cute:
+materials & tools,abbreviations,head & body,arms (make 2),legs (make 2),ears (make 2),muzzle (use additional colour),tail,assembly & design
+teddy:
+materials & tools,abbreviations,head & body,arms (make 2),legs (make 2),ears (make 2),muzzle (use additional colour),tail,assembly & design
+bear:
+materials & tools,abbreviations,head & body,arms (make 2),legs (make 2),ears (make 2),muzzle (use additional colour),tail,assembly & design
+toy:
+materials & tools,abbreviations,head & body,arms (make 2),legs (make 2),ears (make 2),muzzle (use additional colour),tail,assembly & design
+christmas:
+abbreviations,materials,pins,scissors,sock,heel,leaves (make 2),little ball (make 3),bunny leg (make 2),body,head,collar,ears (make 2),arms (make 2),download pdf file
+bunny:
+abbreviations,materials,pins,scissors,sock,heel,leaves (make 2),little ball (make 3),bunny leg (make 2),body,head,collar,ears (make 2),arms (make 2),download pdf file
+with:
+abbreviations,materials,pins,scissors,sock,heel,leaves (make 2),little ball (make 3),bunny leg (make 2),body,head,collar,ears (make 2),arms (make 2),download pdf file
+socks:
+abbreviations,materials,pins,scissors,sock,heel,leaves (make 2),little ball (make 3),bunny leg (make 2),body,head,collar,ears (make 2),arms (make 2),download pdf file
+teddy:
+abbreviation & materials,head,body (start with your favorite color),flower,nose,arms,heart shape tail,ears,lace for the body
+bear:
+abbreviation & materials,head,body (start with your favorite color),flower,nose,arms,heart shape tail,ears,lace for the body
+maid:
+abbreviation & materials,head,body (start with your favorite color),flower,nose,arms,heart shape tail,ears,lace for the body
+toy:
+abbreviation & materials,head,body (start with your favorite color),flower,nose,arms,heart shape tail,ears,lace for the body
+sunny:
+materials,abbreviations,head (hook 4-4.5):,legs and body,arms,ears,tail,assembly,download pdf file
+bunny:
+materials,abbreviations,head (hook 4-4.5):,legs and body,arms,ears,tail,assembly,download pdf file
+bunny:
+abbreviation & materials,head,body,lace for the body (r19),collar where we have blo (r26),arms,flower,tails,second,bunny ears
+maid:
+abbreviation & materials,head,body,lace for the body (r19),collar where we have blo (r26),arms,flower,tails,second,bunny ears
+sam:
+abbreviations & materials,head,muzzle,scarf,first leg,arms,ears,hat,bag
+the:
+abbreviations & materials,head,muzzle,scarf,first leg,arms,ears,hat,bag
+post:
+abbreviations & materials,head,muzzle,scarf,first leg,arms,ears,hat,bag
+bear:
+abbreviations & materials,head,muzzle,scarf,first leg,arms,ears,hat,bag
+meow:
+abbreviation & materials,head,ears,arms,muzzle,body,heartie tail meow,lace for the body meow,bow
+seal:
+abbreviation & materials,head,ears,arms,muzzle,body,heartie tail meow,lace for the body meow,bow
+fish:
+abbreviation & materials,head,ears,arms,muzzle,body,heartie tail meow,lace for the body meow,bow
+little:
+materials,abbreviation,nose,leg*2,body,arm*2,ear*2,tail,bow
+pig:
+materials,abbreviation,nose,leg*2,body,arm*2,ear*2,tail,bow
+little:
+materials,abbreviation,head,body,arm*2,leg*2,ear*2
+bunny:
+materials,abbreviation,head,body,arm*2,leg*2,ear*2
+pumpkin:
+materials,abbreviations,arms (2 details),legs (2 details),body,head,head decoration,eye,face decoration,stem,tendril,hood,assembly
+doll:
+materials,abbreviations,arms (2 details),legs (2 details),body,head,head decoration,eye,face decoration,stem,tendril,hood,assembly
+hallowen:
+materials,abbreviations,arms (2 details),legs (2 details),body,head,head decoration,eye,face decoration,stem,tendril,hood,assembly
+halloween:
+materials,abbreviations,arms (2 detais),legs (2 details),body,head,eyes,second eye,face decoration,hood,assembly,pocket
+zombie:
+materials,abbreviations,arms (2 detais),legs (2 details),body,head,eyes,second eye,face decoration,hood,assembly,pocket
+little:
+materials and tolls,abbreviations,ears (make two),spots around the eyes (make two),hands (make two),legs (make two),body,assembling
+panda:
+materials and tolls,abbreviations,ears (make two),spots around the eyes (make two),hands (make two),legs (make two),body,assembling
+ballerina:
+abbreviations & materials,head brown,body brown,ballerina dress blue at r10 body part,nose- white,ears- brown,arms- brown,legs- brown
+bear:
+abbreviations & materials,head brown,body brown,ballerina dress blue at r10 body part,nose- white,ears- brown,arms- brown,legs- brown
+zaya:
+terms,head,ears,muzzle,spout,legs,heels,arms,body,tail
+velvet:
+terms,head,ears,muzzle,spout,legs,heels,arms,body,tail
+bunny:
+terms,head,ears,muzzle,spout,legs,heels,arms,body,tail
+pokemon:
+materials used:,body:,eyes (make 2):,arms (make 2):,feet (make 2):,ears (make 2):,hair:,mouth:
+toy:
+materials used:,body:,eyes (make 2):,arms (make 2):,feet (make 2):,ears (make 2):,hair:,mouth:
+jigglypuff:
+materials used:,body:,eyes (make 2):,arms (make 2):,feet (make 2):,ears (make 2):,hair:,mouth:
+baby:
+materials used:,head:,eyes (the white part):,pupils (make 2):,muzzle:,nose:,mouth:,tongue:,assembly:,edging of the eye:,ears (make 2),body:,legs (make 2),paw pands (make 6):,arms (make 2):,lead:,tail:
+pluto:
+materials used:,head:,eyes (the white part):,pupils (make 2):,muzzle:,nose:,mouth:,tongue:,assembly:,edging of the eye:,ears (make 2),body:,legs (make 2),paw pands (make 6):,arms (make 2):,lead:,tail:
+tiger:
+materials used,head part 1,head part 2,assembly,head part 3,nose,mouth,ears,body,belly,legs(2 times),arms (2 times),tail
+"tigger":
+materials used,head part 1,head part 2,assembly,head part 3,nose,mouth,ears,body,belly,legs(2 times),arms (2 times),tail
+eeyore:
+materials used,head,face,face (continued),ears (make 2),body,legs (make 2),arms (make 2),tail,bow,hair
+plush:
+materials used,head,face,face (continued),ears (make 2),body,legs (make 2),arms (make 2),tail,bow,hair
+lovely:
+materials,tail,hands,legs,head (we fill it tightly while knitting),ears,muzzle,assembly,overalls
+bunny:
+materials,tail,hands,legs,head (we fill it tightly while knitting),ears,muzzle,assembly,overalls
+blueberry:
+muzzle,head,body,ears*2,arms*2,legs*2,assembly,part 2- apron,main part of the apron,frills (with white yarn),downlooad pdf pattern
+teddy:
+muzzle,head,body,ears*2,arms*2,legs*2,assembly,part 2- apron,main part of the apron,frills (with white yarn),downlooad pdf pattern
+bear:
+muzzle,head,body,ears*2,arms*2,legs*2,assembly,part 2- apron,main part of the apron,frills (with white yarn),downlooad pdf pattern
+bird:
+materials,abbreviations,body,wings (make2),beak,legs (make2),assembling
+pucca:
+materials,abbreviation,leg*2,body,skirt,head,hair,hair bun*2,arm*2 ,sleeve*2 (in red)
+girl:
+materials,abbreviation,leg*2,body,skirt,head,hair,hair bun*2,arm*2 ,sleeve*2 (in red)
+yellow:
+materials,abbreviation,leg*2,body,head,arm*2,beak,hat
+duck:
+materials,abbreviation,leg*2,body,head,arm*2,beak,hat
+toy:
+materials,abbreviation,leg*2,body,head,arm*2,beak,hat
+pusheen:
+materials,abbreviation,ear*2,body,arm*2,tail
+cat:
+materials,abbreviation,ear*2,body,arm*2,tail
+plush:
+materials,abbreviations,body head,stuff head,legs (2 identical parts),hands (2 identical parts),ears (2 identical parts),tail,nose,eyes,assembling toy parts
+bunny:
+materials,abbreviations,body head,stuff head,legs (2 identical parts),hands (2 identical parts),ears (2 identical parts),tail,nose,eyes,assembling toy parts
+krosh:
+materials,abbreviations,body head,stuff head,legs (2 identical parts),hands (2 identical parts),ears (2 identical parts),tail,nose,eyes,assembling toy parts
+plush:
+materials,abbreviations,legs,arms,body,head,ears
+bunny:
+materials,abbreviations,legs,arms,body,head,ears
+plush:
+materials,for shirt,tools,abbreviations,crochet pattern,head,continue to crochet body,legs (2 details),arms (2 details),ears (2 details),tail
+lovely:
+materials,for shirt,tools,abbreviations,crochet pattern,head,continue to crochet body,legs (2 details),arms (2 details),ears (2 details),tail
+cat:
+materials,for shirt,tools,abbreviations,crochet pattern,head,continue to crochet body,legs (2 details),arms (2 details),ears (2 details),tail
+mac:
+materials,abbreviations,body,muzzle,ears,legs,tail,hands
+the:
+materials,abbreviations,body,muzzle,ears,legs,tail,hands
+mouse:
+materials,abbreviations,body,muzzle,ears,legs,tail,hands
+santa:
+arm 2x,leg 2x,body,head,beard,moustache 2x,santa cap,cap's ball,sew
+claus:
+arm 2x,leg 2x,body,head,beard,moustache 2x,santa cap,cap's ball,sew
+doll:
+arm 2x,leg 2x,body,head,beard,moustache 2x,santa cap,cap's ball,sew
+mrs.:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),dress(use cream color),bobble (with yellow color/ blue yarn and make 12),ivy (with cream color yarn and make 2),download pdf file
+cookie:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),dress(use cream color),bobble (with yellow color/ blue yarn and make 12),ivy (with cream color yarn and make 2),download pdf file
+teddy:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),dress(use cream color),bobble (with yellow color/ blue yarn and make 12),ivy (with cream color yarn and make 2),download pdf file
+bear:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),dress(use cream color),bobble (with yellow color/ blue yarn and make 12),ivy (with cream color yarn and make 2),download pdf file
+rubby:
+abbreviations,materials,legs (start in cream color yarn, make 2),body (in cream color yarn),head (in skin color yarn),arm (in skin color yarn, make 2 ),hair cap (in lilac color),hair (in lilac color yarn, make 63 pieces),hair (pictorial),top of the dress(with cream color yarn),collar (with cream color yarn),skirt (with cream color yarn),dress (pictorial),ivy (with green color yarn),bobble (with purple color yarn),ears (with cream color yarn, make two),shoes (in purple color, make two),download pdf file
+bunny:
+abbreviations,materials,legs (start in cream color yarn, make 2),body (in cream color yarn),head (in skin color yarn),arm (in skin color yarn, make 2 ),hair cap (in lilac color),hair (in lilac color yarn, make 63 pieces),hair (pictorial),top of the dress(with cream color yarn),collar (with cream color yarn),skirt (with cream color yarn),dress (pictorial),ivy (with green color yarn),bobble (with purple color yarn),ears (with cream color yarn, make two),shoes (in purple color, make two),download pdf file
+girl:
+abbreviations,materials,legs (start in cream color yarn, make 2),body (in cream color yarn),head (in skin color yarn),arm (in skin color yarn, make 2 ),hair cap (in lilac color),hair (in lilac color yarn, make 63 pieces),hair (pictorial),top of the dress(with cream color yarn),collar (with cream color yarn),skirt (with cream color yarn),dress (pictorial),ivy (with green color yarn),bobble (with purple color yarn),ears (with cream color yarn, make two),shoes (in purple color, make two),download pdf file
+cat:
+abbreviations,materials,legs ( make 2 ),body,head,arms (make 2 ),hair cap,tress (use orange color yarn),hair instruction images explanation,ear (make 2),tail,dress,cardigan,big wing (make 4 pieces),small wing (make 4 pieces),download pdf file
+girl:
+abbreviations,materials,legs ( make 2 ),body,head,arms (make 2 ),hair cap,tress (use orange color yarn),hair instruction images explanation,ear (make 2),tail,dress,cardigan,big wing (make 4 pieces),small wing (make 4 pieces),download pdf file
+doll:
+abbreviations,materials,legs ( make 2 ),body,head,arms (make 2 ),hair cap,tress (use orange color yarn),hair instruction images explanation,ear (make 2),tail,dress,cardigan,big wing (make 4 pieces),small wing (make 4 pieces),download pdf file
+alice:
+abbreviations,materials,legs(black/white) x 2,body,head (skin color),arm (skin color ) x 2,hair (yellow),hair band (black),shoes (red)x2,inner part of the skirt (white),upper part of the skirt (blue),apron (white),toadstool stem (white),toadstool cap (red),download pdf file
+in:
+abbreviations,materials,legs(black/white) x 2,body,head (skin color),arm (skin color ) x 2,hair (yellow),hair band (black),shoes (red)x2,inner part of the skirt (white),upper part of the skirt (blue),apron (white),toadstool stem (white),toadstool cap (red),download pdf file
+wonderland:
+abbreviations,materials,legs(black/white) x 2,body,head (skin color),arm (skin color ) x 2,hair (yellow),hair band (black),shoes (red)x2,inner part of the skirt (white),upper part of the skirt (blue),apron (white),toadstool stem (white),toadstool cap (red),download pdf file
+forest:
+materials,abbreviations,legs (with skin color yarn and make 2),body (with skin color yarn),head (with skin color yarn),arms (with skin color yarn and make 2),ears (with skin color yarn and make 2),big mushroom,little mushroom,hair (with green color yarn),hair making visual,dress (with soft pink color and dark pink color yarn),leaf skirt (with soft pink color and dark pink color yarn) make 10,dress sleeve (with soft pink color and dark pink color yarn) make 2,belt (with brown color yarn),belt accessory (with dark pink color yarn),download pdf file
+fairy:
+materials,abbreviations,legs (with skin color yarn and make 2),body (with skin color yarn),head (with skin color yarn),arms (with skin color yarn and make 2),ears (with skin color yarn and make 2),big mushroom,little mushroom,hair (with green color yarn),hair making visual,dress (with soft pink color and dark pink color yarn),leaf skirt (with soft pink color and dark pink color yarn) make 10,dress sleeve (with soft pink color and dark pink color yarn) make 2,belt (with brown color yarn),belt accessory (with dark pink color yarn),download pdf file
+doll:
+materials,abbreviations,legs (with skin color yarn and make 2),body (with skin color yarn),head (with skin color yarn),arms (with skin color yarn and make 2),ears (with skin color yarn and make 2),big mushroom,little mushroom,hair (with green color yarn),hair making visual,dress (with soft pink color and dark pink color yarn),leaf skirt (with soft pink color and dark pink color yarn) make 10,dress sleeve (with soft pink color and dark pink color yarn) make 2,belt (with brown color yarn),belt accessory (with dark pink color yarn),download pdf file
+snow:
+abbreviations,materials,download pdf file,legs ( with skin color ) x 2,body,head (skin color),arm (skin color ) x 2,hair (black),tresses(black),hair band (red),bow(red),inner part of the skirt ( white),edge of the blouse (blue),upper part of the skirt ( yellow),collar of the cloak (white),apple (red),leaf (green)
+white:
+abbreviations,materials,download pdf file,legs ( with skin color ) x 2,body,head (skin color),arm (skin color ) x 2,hair (black),tresses(black),hair band (red),bow(red),inner part of the skirt ( white),edge of the blouse (blue),upper part of the skirt ( yellow),collar of the cloak (white),apple (red),leaf (green)
+princess:
+abbreviations,materials,download pdf file,legs ( with skin color ) x 2,body,head (skin color),arm (skin color ) x 2,hair (black),tresses(black),hair band (red),bow(red),inner part of the skirt ( white),edge of the blouse (blue),upper part of the skirt ( yellow),collar of the cloak (white),apple (red),leaf (green)
+night:
+materials,abbreviations,legs (with skin color yarn and make 2),body (in skin color yarn),head (in skin color yarn),arms (in skin color,make 2 ),hair cap (saxe),star (in yellow color and make 2),sweater (use black, white and yellow),pants (in jean blue color),booties (make 2 in yellow),booties accessories (make 2 in yellow color),download pdf file
+boy:
+materials,abbreviations,legs (with skin color yarn and make 2),body (in skin color yarn),head (in skin color yarn),arms (in skin color,make 2 ),hair cap (saxe),star (in yellow color and make 2),sweater (use black, white and yellow),pants (in jean blue color),booties (make 2 in yellow),booties accessories (make 2 in yellow color),download pdf file
+doll:
+materials,abbreviations,legs (with skin color yarn and make 2),body (in skin color yarn),head (in skin color yarn),arms (in skin color,make 2 ),hair cap (saxe),star (in yellow color and make 2),sweater (use black, white and yellow),pants (in jean blue color),booties (make 2 in yellow),booties accessories (make 2 in yellow color),download pdf file
+mr.:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),pants (use blues color),sweater (use cream color),teddy bear motif (use yellow color),download pdf file
+cookie:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),pants (use blues color),sweater (use cream color),teddy bear motif (use yellow color),download pdf file
+teddy:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),pants (use blues color),sweater (use cream color),teddy bear motif (use yellow color),download pdf file
+bear:
+abbreviations of basic terms,materials,legs (use milky brown color and make 2),body (use milky brown color),head (use milky brown color),shape the head,arms (use milky brown color yarn and make 2),ear (use milky brown color yarn and make 2),pants (use blues color),sweater (use cream color),teddy bear motif (use yellow color),download pdf file
+bumble:
+abbreviations of basic terms,download pdf file,materials,legs (use brown color and make 2),body (use brown color),head (use brown color),shape the head,arms (use brown color yarn and make 2),ear (use brown color yarn and make 2),pants (with blue color/ white yarn),mr. bumble jumpsuit headband (with blue color/ white yarn),mrs. bumble dress (with purple color/ green yarn),dress(use cream color),bobble (with yellow color/ blue yarn and make 12),ivy (with cream color yarn and make 2)
+bunny:
+abbreviations of basic terms,download pdf file,materials,legs (use brown color and make 2),body (use brown color),head (use brown color),shape the head,arms (use brown color yarn and make 2),ear (use brown color yarn and make 2),pants (with blue color/ white yarn),mr. bumble jumpsuit headband (with blue color/ white yarn),mrs. bumble dress (with purple color/ green yarn),dress(use cream color),bobble (with yellow color/ blue yarn and make 12),ivy (with cream color yarn and make 2)
+little:
+abbreviations of basic terms,materials,legs (cream) x 2,body,head (skin color),skirt (with red color/ cream yarn),arm (with skin color/ red yarn),hood (with red color yarn),cape (with red color yarn),hair (with brown color),belt (with brown color),shoes (with brown color)x2,download pdf file
+red:
+abbreviations of basic terms,materials,legs (cream) x 2,body,head (skin color),skirt (with red color/ cream yarn),arm (with skin color/ red yarn),hood (with red color yarn),cape (with red color yarn),hair (with brown color),belt (with brown color),shoes (with brown color)x2,download pdf file
+riding:
+abbreviations of basic terms,materials,legs (cream) x 2,body,head (skin color),skirt (with red color/ cream yarn),arm (with skin color/ red yarn),hood (with red color yarn),cape (with red color yarn),hair (with brown color),belt (with brown color),shoes (with brown color)x2,download pdf file
+hood:
+abbreviations of basic terms,materials,legs (cream) x 2,body,head (skin color),skirt (with red color/ cream yarn),arm (with skin color/ red yarn),hood (with red color yarn),cape (with red color yarn),hair (with brown color),belt (with brown color),shoes (with brown color)x2,download pdf file
+sheep:
+abbreviations of basic terms,materials ,legs (with beige color yarn and make 2),body (with beige color yarn),head (with beige color yarn),ears (with beige color yarn and 2 make),bubbles (with cream color yarn),arms (with beige color yarn and 2 make),salopet (with blue color yarn),download pdf file
+muffin:
+abbreviations of basic terms,materials ,legs (with beige color yarn and make 2),body (with beige color yarn),head (with beige color yarn),ears (with beige color yarn and 2 make),bubbles (with cream color yarn),arms (with beige color yarn and 2 make),salopet (with blue color yarn),download pdf file
+elephant:
+materials,abbreviations,legs (use blue color and make 2,body (use blue color),head (use blue color),shape the head,ear (use blue color yarn and make 2),trunk (use blue color yarn),arms (use blue color yarn and make 4),trunk / ear / arms sewing stage,crown (use yellow color yarn),crown hill (use yellow color yarn),crown accessory (use purple color yarn),pants (use white color),pants accessory (use white color),waistcoat (use green color),legs accessory (use yellow color and make 2),arms accessory (use yellow color and make 4),embroidery (use red color),download pdf file
+ganesha:
+materials,abbreviations,legs (use blue color and make 2,body (use blue color),head (use blue color),shape the head,ear (use blue color yarn and make 2),trunk (use blue color yarn),arms (use blue color yarn and make 4),trunk / ear / arms sewing stage,crown (use yellow color yarn),crown hill (use yellow color yarn),crown accessory (use purple color yarn),pants (use white color),pants accessory (use white color),waistcoat (use green color),legs accessory (use yellow color and make 2),arms accessory (use yellow color and make 4),embroidery (use red color),download pdf file
+deer:
+materials,abbreviations,legs (skin color) x 2,body,head (skin color),arms (skin color ) x 2,second skirt ruffle(cream color),third skirt ruffle (cream color),deer antler embroidery (brown),hair (nako spagetti-ginger color),antler (brown) x2,small antler (brown) x4,big antler (brown) x2,ear (skin color) x 2,booties (brown) x2,hairband (cream color),flower ( green,purple, pink ) x2,download pdf file
+gazella:
+materials,abbreviations,legs (skin color) x 2,body,head (skin color),arms (skin color ) x 2,second skirt ruffle(cream color),third skirt ruffle (cream color),deer antler embroidery (brown),hair (nako spagetti-ginger color),antler (brown) x2,small antler (brown) x4,big antler (brown) x2,ear (skin color) x 2,booties (brown) x2,hairband (cream color),flower ( green,purple, pink ) x2,download pdf file
+girl:
+materials,abbreviations,legs (skin color) x 2,body,head (skin color),arms (skin color ) x 2,second skirt ruffle(cream color),third skirt ruffle (cream color),deer antler embroidery (brown),hair (nako spagetti-ginger color),antler (brown) x2,small antler (brown) x4,big antler (brown) x2,ear (skin color) x 2,booties (brown) x2,hairband (cream color),flower ( green,purple, pink ) x2,download pdf file
+maribel:
+abbreviations,materials,legs( with skin color)x 2,body,head (skin color),arm (skin color ) x 2,hair (brown),inner part of the skirt (with white color),upper part of the skirt ( with blue),download pdf file
+doll:
+abbreviations,materials,legs( with skin color)x 2,body,head (skin color),arm (skin color ) x 2,hair (brown),inner part of the skirt (with white color),upper part of the skirt ( with blue),download pdf file
+fox:
+abbreviations,materials,legs (cream) x 2,body,head (skin color),arms (skin color) x 2,hair cap (purple),curlycues (purple),hair(pictorial),ears (skin color) x 2,skirt(orange),heart(cream),hood (orange),cloak (orange),fox ears (brown) x2,shoes (brown) x2,download pdf file
+girl:
+abbreviations,materials,legs (cream) x 2,body,head (skin color),arms (skin color) x 2,hair cap (purple),curlycues (purple),hair(pictorial),ears (skin color) x 2,skirt(orange),heart(cream),hood (orange),cloak (orange),fox ears (brown) x2,shoes (brown) x2,download pdf file
+foxella:
+abbreviations,materials,legs (cream) x 2,body,head (skin color),arms (skin color) x 2,hair cap (purple),curlycues (purple),hair(pictorial),ears (skin color) x 2,skirt(orange),heart(cream),hood (orange),cloak (orange),fox ears (brown) x2,shoes (brown) x2,download pdf file
+doll:
+abbreviations,materials,legs (cream) x 2,body,head (skin color),arms (skin color) x 2,hair cap (purple),curlycues (purple),hair(pictorial),ears (skin color) x 2,skirt(orange),heart(cream),hood (orange),cloak (orange),fox ears (brown) x2,shoes (brown) x2,download pdf file
+giraffe:
+materials,abbreviations,legs (with yellow color yarn and make 2),body (with yellow color yarn),head (with yellow color yarn),muzzle (with cream color yarn),horns (with brown color yarn and make 2),spots (with brown color yarn and make 3),little spot make 2,arms (with yellow color yarn and 2 make),cheek patches (with pink color yarn and 2 make),overalls (with beige color yarn),overalls hanger(with beige color yarn and make 2),download pdf file
+rufus:
+materials,abbreviations,legs (with yellow color yarn and make 2),body (with yellow color yarn),head (with yellow color yarn),muzzle (with cream color yarn),horns (with brown color yarn and make 2),spots (with brown color yarn and make 3),little spot make 2,arms (with yellow color yarn and 2 make),cheek patches (with pink color yarn and 2 make),overalls (with beige color yarn),overalls hanger(with beige color yarn and make 2),download pdf file
+teddy:
+abbreviations of basic terms,materials,head (use brown color),body (use brown color),legs (with cream color/ brown yarn and make 2),body and leg,arms (with brown yarn and make 2),ears (with brown yarn and make 2),bow (with blue yarn),bow stripe (with blue yarn),beanie(with blue color/ white yarn),pompom (with white color),download pdf file
+bear:
+abbreviations of basic terms,materials,head (use brown color),body (use brown color),legs (with cream color/ brown yarn and make 2),body and leg,arms (with brown yarn and make 2),ears (with brown yarn and make 2),bow (with blue yarn),bow stripe (with blue yarn),beanie(with blue color/ white yarn),pompom (with white color),download pdf file
+bubsy:
+abbreviations of basic terms,materials,head (use brown color),body (use brown color),legs (with cream color/ brown yarn and make 2),body and leg,arms (with brown yarn and make 2),ears (with brown yarn and make 2),bow (with blue yarn),bow stripe (with blue yarn),beanie(with blue color/ white yarn),pompom (with white color),download pdf file
+elephant:
+materials,abbreviations,legs (with grey color yarn and make 2),body (with grey color yarn),head (with grey color yarn),ears (with grey color yarn and 2 make),cheek patches (with pink color yarn and 2 make),trunk (with grey color yarn),arms (with grey color yarn and 2 make),dress (with tan color yarn),inner part of the skirt;,shoulder straps of dress;,download pdf file
+melanie:
+materials,abbreviations,legs (with grey color yarn and make 2),body (with grey color yarn),head (with grey color yarn),ears (with grey color yarn and 2 make),cheek patches (with pink color yarn and 2 make),trunk (with grey color yarn),arms (with grey color yarn and 2 make),dress (with tan color yarn),inner part of the skirt;,shoulder straps of dress;,download pdf file
+doll:
+materials,abbreviations,legs (with grey color yarn and make 2),body (with grey color yarn),head (with grey color yarn),ears (with grey color yarn and 2 make),cheek patches (with pink color yarn and 2 make),trunk (with grey color yarn),arms (with grey color yarn and 2 make),dress (with tan color yarn),inner part of the skirt;,shoulder straps of dress;,download pdf file
+pig:
+abbreviations ,materials ,legs (with skin color yarn and make 2),body (with skin color yarn),head (with skin color yarn),nose (with pink and skin color yarn),ears (with skin color yarn and make 2),arms (with skin color yarn and 2 make),dress (with green color yarn),braces(with green color yarn and make 2),download pdf file
+pixie:
+abbreviations ,materials ,legs (with skin color yarn and make 2),body (with skin color yarn),head (with skin color yarn),nose (with pink and skin color yarn),ears (with skin color yarn and make 2),arms (with skin color yarn and 2 make),dress (with green color yarn),braces(with green color yarn and make 2),download pdf file
+monkey:
+abbreviations ,materials,legs (with beige color yarn and make 2),body (with beige color yarn),head (with beige color yarn),mouth (with cream color yarn),ears (with beige color yarn and 2 make),arms (with beige/cream color yarn and 2 make),tail (with beige color yarn and 2 make),hat (with pink color yarn),dress (with pink color yarn),download pdf file
+titi:
+abbreviations ,materials,legs (with beige color yarn and make 2),body (with beige color yarn),head (with beige color yarn),mouth (with cream color yarn),ears (with beige color yarn and 2 make),arms (with beige/cream color yarn and 2 make),tail (with beige color yarn and 2 make),hat (with pink color yarn),dress (with pink color yarn),download pdf file
+animal:
+abbreviations ,materials,legs (with beige color yarn and make 2),body (with beige color yarn),head (with beige color yarn),mouth (with cream color yarn),ears (with beige color yarn and 2 make),arms (with beige/cream color yarn and 2 make),tail (with beige color yarn and 2 make),hat (with pink color yarn),dress (with pink color yarn),download pdf file
